@@ -103,6 +103,7 @@ _Respuesta:_
 **14. Explica la diferencia entre Ingeniería de procesos de negocio e Ingeniería de producto, dando un ejemplo de cada una.**
 
 _Respuesta:_ 
+
 Ingeniería de procesos de negocio: optimiza el funcionamiento interno de una empresa (flujos de trabajo, eficiencia, costos).
 Ejemplo: automatizar el proceso de aprobación de préstamos en un banco para reducirlo de 5 días a 1.
 
