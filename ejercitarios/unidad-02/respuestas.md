@@ -88,6 +88,11 @@ _Respuesta:_
 
 _Respuesta:_
 
+* Vista estructural: muestra cómo está compuesto el sistema, sus elementos y las relaciones entre ellos.
+    Ejemplo de notación: diagrama de clases UML.
+* Vista de comportamiento: muestra cómo funciona el sistema, las acciones, eventos y cambios que ocurren a lo largo del tiempo.
+    Ejemplo de notación: diagrama de secuencia UML.
+
 
 **12. Diagrama de contexto:** elige un sistema simple (por ejemplo, un cajero automático, una app de delivery) y dibujá un diagrama de contexto que muestre el sistema y al menos dos entidades externas con las que interactúa. Adjuntá la imagen acá abajo.
 
