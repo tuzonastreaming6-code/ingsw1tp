@@ -74,10 +74,10 @@ _Respuesta:_
 
 | Nivel de visión | Descripción |
 |---|---|
-| A. Visión del mundo (worldview) | ___ |
-| B. Visión del dominio | ___ |
-| C. Visión del elemento | ___ |
-| D. Visión detallada | ___ |
+| A. Visión del mundo (worldview) | _3_ |
+| B. Visión del dominio | _4_ |
+| C. Visión del elemento | _1_ |
+| D. Visión detallada | _2_ |
 
 1. El sistema particular que se va a construir, dentro del dominio.
 2. Los componentes internos del sistema: software, hardware, datos, etc.
