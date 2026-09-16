@@ -127,11 +127,9 @@ Diferencia clave: una mejora procesos internos; la otra crea algo para vender o 
 
 _Respuesta:_
 
-**Respuesta:**
+Es importante porque el software que un ingeniero construye no funciona en el vacío: forma parte de un sistema más grande, y si no se entiende ese sistema completo, se corre el riesgo de programar algo que técnicamente funciona pero que no resuelve el problema real.
 
-Entender el sistema completo antes de programar es importante porque el software nunca resuelve un problema solo: siempre está metido dentro de algo más grande, con personas, procesos y reglas que también influyen en si funciona bien o no.
+Un ejemplo claro es el del **hospital** visto en la Unidad 02: ahí el sistema no es solo el software, sino también los médicos y enfermeras que lo usan, el hardware, los datos de los pacientes y los procedimientos del hospital, todos trabajando juntos. Si un ingeniero solo se enfoca en programar sin conocer cómo trabaja el personal médico o qué reglas de privacidad hay que cumplir con los datos de los pacientes, puede terminar creando un sistema difícil de usar o que ni siquiera se pueda implementar por no respetar esas normas.
 
-Un ejemplo es el del **hospital** visto en la Unidad 02: el sistema no es solo el programa de computadora, sino también los médicos que lo usan, las computadoras, los datos de los pacientes y la forma en que trabaja el hospital. Además, como es un sistema abierto, está en contacto constante con su entorno y tiene que respetar restricciones externas, como las normas legales sobre privacidad de los datos de los pacientes. Si un programador no toma esto en cuenta desde el principio, puede crear algo que funcione técnicamente, pero que sea incómodo de usar para el personal o que no cumpla con esas normas.
-
-Por eso primero hay que entender el sistema completo y su entorno, y recién después ponerse a programar.
+Por eso, antes de programar, hay que tener una visión global del sistema: quiénes lo van a usar, con qué otras partes se relaciona y qué reglas del entorno debe respetar. Así el software que se construye realmente encaja con la necesidad real, en vez de resolver bien un problema que no era el correcto.
 
