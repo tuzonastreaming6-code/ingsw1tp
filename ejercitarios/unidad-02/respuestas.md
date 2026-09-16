@@ -118,10 +118,10 @@ Diferencia clave: una mejora procesos internos; la otra crea algo para vender o 
 
 | N.º | Paso |
 |---|---|
-| | Especificación del sistema |
-| | Definición de necesidades |
-| | Asignación de requisitos entre elementos |
-| | Análisis de factibilidad |
+|3 | Especificación del sistema |
+|1 | Definición de necesidades |
+|4 | Asignación de requisitos entre elementos |
+|2 | Análisis de factibilidad |
 
 **16. Reflexión final:** ¿por qué crees que es importante que un ingeniero de software comprenda el sistema completo (Ingeniería de Sistemas) antes de comenzar a programar? Relaciona tu respuesta con algún ejemplo visto en la Unidad 01 o en esta unidad.
 
