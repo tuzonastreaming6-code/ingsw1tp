@@ -8,7 +8,7 @@
 
 **1. Define en tus propias palabras qué es un sistema y da un ejemplo distinto al utilizado en clase.**
 
-_Respuesta:_
+_Respuesta:_ Un sistema es un conjunto de partes que trabajan juntos y se relacionan entre si para cumplir un objetivo común.
 
 
 **2. Enumera los seis elementos de un sistema basado en computadora.**
