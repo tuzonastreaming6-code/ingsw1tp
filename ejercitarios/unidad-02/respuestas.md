@@ -66,6 +66,9 @@ _Respuesta:_
 
 _Respuesta:_
 
+1. Permite detectar errores y problemas antes de construir el sistema, evitando costos y retrabajos.
+2. Facilita la planificación y comprensión del sistema, ya que permite visualizar cómo funcionará y cómo interactuarán sus diferentes componentes.
+
 
 **10. Ejercicio de relación** (completá con el número que corresponda a cada letra):
 
