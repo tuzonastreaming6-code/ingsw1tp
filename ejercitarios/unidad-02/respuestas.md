@@ -15,21 +15,27 @@ Un sistema es un conjunto de partes que trabajan juntos y se relacionan entre si
 
 **2. Enumera los seis elementos de un sistema basado en computadora.**
 
-_Respuesta:_
+1- Software
+2- Hardware
+3- Personas
+4- Base de datos
+5- Documentacion
+6- Procedimientos
 
 
 **3. Piensa en un sistema cotidiano (por ejemplo, una biblioteca, un supermercado o un club deportivo) y completa la tabla con un ejemplo propio para cada propiedad.**
 
-| Propiedad | Ejemplo en el sistema elegido |
-|---|---|
-| Jerarquía | |
-| Límites (fronteras) | |
-| Interrelación de elementos | |
-| Propiedades emergentes | |
+| Propiedad | Ejemplo en el sistema elegido | Ejemplo en el supermercado
+
+| Jerarquía: El supermercado se organiza en niveles: gerencia general → jefes de sección (cajas, depósito, reposición, atención al cliente) → empleados de cada sección. Además, él mismo puede ser parte de un sistema mayor (una cadena de supermercados)
+| Límites (fronteras): Lo que está dentro: el local, los empleados, la mercadería y los sistemas de venta e inventario. Lo que queda fuera (el entorno): los proveedores, los clientes, la competencia y las regulaciones. La frontera separa lo que el supermercado controla de lo que no.
+| Interrelación de elementos: Las cajas dependen del sistema de inventario para descontar el stock; la reposición depende de lo que informa el depósito; el depósito depende de los pedidos a proveedores. Si falla uno, afecta a los demás (ej.: si el depósito no repone, las góndolas quedan vacías).
+| Propiedades emergentes: La "experiencia de compra" (poder atender a cientos de clientes a la vez, encontrar todo en un solo lugar, cobrar rápido) no la produce ninguna caja, góndola o empleado por separado: surge de la interacción de todos los elementos funcionando juntos
 
 **4. Dentro del mismo sistema, identifica un posible subsistema y justifica por qué lo consideras tal.**
 
-_Respuesta:_
+Lo considero un subsistema porque es un sistema completo en sí mismo tiene sus propios elementos (cajeros, terminales de cobro, lectores de código de barras, software de facturación y medios de pago) que se organizan para cumplir un objetivo propio: procesar el pago de cada cliente de forma rápida y correcta— pero a la vez es solo una parte del sistema mayor que es el supermercado.
+Además, se interrelaciona con los demás subsistemas: descuenta productos del inventario, le informa a la gerencia cuánto se vendió y depende de la reposición para que haya mercadería que cobrar. Por eso cumple la definición de subsistema: un sistema que, a su vez, es un componente de un sistema más grande.
 
 
 ---
@@ -40,10 +46,10 @@ _Respuesta:_
 
 | Elemento | Descripción en el sistema elegido |
 |---|---|
-| Sistema elegido | |
-| Una entrada | |
-| Una salida | |
-| Un elemento del entorno | |
+| Sistema elegido: WhatsApp — aplicación de mensajería que uso para comunicarme con clientes y contactos todos los días.
+| Una entrada: El mensaje de texto que escribo y los datos que ingreso (el contacto al que le envío, una foto o un archivo adjunto). Es lo que le doy al sistema para que procese.
+| Una salida: El mensaje ya entregado que aparece en la pantalla del destinatario con su tilde de "enviado, leído", y la notificación que recibe, es el resultado que el sistema produce.
+| Un elemento del entorno: La conexión a internet o la red del proveedor de telefonía. Está fuera del sistema WhatsApp, no la controla la app, pero WhatsApp depende de ella para funcionar. 
 
 **6. ¿El sistema que elegiste es abierto o cerrado? Justifica tu respuesta.**
 
