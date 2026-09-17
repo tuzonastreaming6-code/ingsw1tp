@@ -1,14 +1,12 @@
 # Respuestas — Ejercitario Unidad 04
 
-> Completen cada pregunta debajo de su enunciado. Pueden borrar este bloque de instrucciones una vez que empiecen.
-
 ---
 
 ## Tema 1 · El proceso de requerimientos
 
 **1. Define en tus propias palabras qué es la ingeniería de requerimientos.**
 
-_Respuesta:_
+La ingeniería de requerimientos es el conjunto de actividades que se hacen para descubrir, entender, documentar y gestionar qué es lo que el software tiene que hacer y qué condiciones debe cumplir, antes y durante su desarrollo.
 
 
 **2. Explica la diferencia entre "requerimiento", "especificación de requisitos" e "ingeniería de requisitos", con un ejemplo de cada uno.**
@@ -69,7 +67,10 @@ _Respuesta:_
 
 **8. Enumera las cuatro etapas del ciclo de obtención y análisis de requerimientos vistas en clase.**
 
-_Respuesta:_
+1- Descubrimiento de requerimiento
+2- Clasificacion y organizacion de requerimientos
+3- Priorizacion y negociacion de requerimientos
+4- Especificacion
 
 
 **9. Ejercicio de relación** (completen con el número que corresponda a cada letra):
@@ -142,7 +143,7 @@ _Respuesta:_
 
 **15. Explica con tus palabras qué es la trazabilidad de requerimientos y por qué es importante en un proyecto real.**
 
-_Respuesta:_
+La trazabilidad de requerimientos es la capacidad de seguirle el rastro a cada requerimiento a lo largo de todo el proyecto: saber de dónde salió (quién lo pidió y por qué), en qué parte del diseño y del código se convirtió, y con qué pruebas se verifica que se cumplió.
 
 
 ---
