@@ -8,17 +8,25 @@
 
 **1. Define en tus propias palabras qué es un proceso de software.**
 
-_Respuesta:_
+Un proceso de software es el conjunto ordenado de actividades, pasos y tareas que se siguen para desarrollar un producto de software, desde que surge la idea o la necesidad hasta que el programa está terminado, funcionando y en mantenimiento.
 
 
 **2. Explica la diferencia entre proceso, metodología y modelo de proceso, con un ejemplo de cada uno.**
+2.1- Proceso de software:Es el conjunto de actividades que se realizan para producir software, entender requisitos, diseñar, programar, probar, mantener.
+Ejemplo: El proceso general de desarrollar un sistema, que incluye las actividades de análisis, diseño, codificación y pruebas.
 
-_Respuesta:_
+2.2- Modelo de proceso: Es una forma de organizar y ordenar las actividades del proceso. Define en qué secuencia y de qué manera se combinan esas etapas, es una representación abstracta del proceso. Ej: El modelo en cascada las etapas van una tras otra, en orden fijo,  el modelo incremental o el modelo espiral. Cada uno propone una estructura distinta para las mismas actividades 
+
+2.3- Metodología: Es un conjunto de reglas, técnicas, roles, herramientas y buenas prácticas específicas que dicen "cómo hacer" el trabajo en el día a día. ej : Scrum (con sus roles como Scrum Master, sus sprints, sus reuniones diarias) o XP (Programación Extrema). Son metodologías ágiles que definen prácticas puntuales de trabajo.
 
 
 **3. Enumera las cinco actividades genéricas del marco de trabajo de Pressman.**
+1- Comunicacion
+2- Planeacion
+3- Modelado
+4- Construccion
+5- Despliegue
 
-_Respuesta:_
 
 
 **4. Menciona dos actividades "de la sombrilla" y explica por qué se dice que "cubren" todo el proceso.**
