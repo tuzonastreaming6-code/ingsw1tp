@@ -92,9 +92,9 @@ Trabajo en equipo y colaboración: capacidad para coordinarse con otros profesio
 | Rol | Descripción |
 |---|---|
 | Analista | __Recopila y analiza las necesidades del usuario para definir los requisitos del sistema.__|
-| Arquitecto : Diseña la estructura general del software y define las tecnologías y componentes que se utilizarán.
-| Desarrollador: Escribe el código y construye las funcionalidades del sistema según los requisitos establecidos
-| Tester / QA : Realiza pruebas para detectar errores y verificar que el software funcione correctamente y cumpla con la calidad esperada.
+| Arquitecto : |__Diseña la estructura general del software y define las tecnologías y componentes que se utilizarán.__|
+| Desarrollador: |__Escribe el código y construye las funcionalidades del sistema según los requisitos establecidos__|
+| Tester / QA :|__Realiza pruebas para detectar errores y verificar que el software funcione correctamente y cumpla con la calidad esperada.__|
 
 **10. Caso breve:** Un ingeniero de software descubre, cerca de la fecha de entrega, una falla de seguridad que podría exponer datos de usuarios, pero corregirla retrasaría el proyecto una semana. ¿Qué debería hacer y por qué, considerando la ética profesional?
 
@@ -128,7 +128,7 @@ Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar p
 
 | Área | ¿Cómo apoya a la Ingeniería de Software? |
 |---|---|
-| Estructuras de datos y algoritmos: Permiten organizar, almacenar y procesar información de manera eficiente, mejorando el rendimiento de los programas.
+| Estructuras de datos y algoritmos:|__Permiten organizar, almacenar y procesar información de manera eficiente, mejorando el rendimiento de los programas.__|
 | Bases de datos: Facilitan el almacenamiento, gestión y recuperación de grandes cantidades de información de forma segura y organizada.
 | Sistemas operativos: Proporcionan los recursos y servicios necesarios para que el software pueda ejecutarse correctamente en un equipo.
 | Redes: Permiten la comunicación e intercambio de información entre sistemas y usuarios mediante conexiones locales o internet.
