@@ -169,8 +169,7 @@ _Respuesta:_
 | Lucidchart / Visual
 Paradigm (diagramas UML) | Upper-CASE |
 | Git + GitHub (control de versiones) | Lower-CASE |
-| Enterprise Architect
-(modelado y generación de código) | I-CASE |
+| Enterprise Architect (modelado y generación de código) | I-CASE |
 
 **16. Reflexión final:** de los modelos de proceso vistos en esta unidad, ¿cuál elegirían para un proyecto personal? Justifiquen su elección considerando el tamaño del proyecto, el tiempo disponible y el nivel de certeza sobre los requisitos.
 
