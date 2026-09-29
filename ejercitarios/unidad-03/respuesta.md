@@ -175,9 +175,9 @@ Paradigm (diagramas UML) | Upper-CASE |
 **16. Reflexión final:** de los modelos de proceso vistos en esta unidad, ¿cuál elegirían para un proyecto personal? Justifiquen su elección considerando el tamaño del proyecto, el tiempo disponible y el nivel de certeza sobre los requisitos.
 
 _Respuesta:_
-Elegiría un modelo incremental/ágil (por ejemplo, Scrum simplificado o Kanban).
+Elegiríamos el modelo de prototipado evolutivo para un proyecto personal. Al ser un proyecto pequeño, no necesitamos la documentación extensa que exigen modelos como cascada o espiral; nos conviene más construir algo funcional rápido y mejorarlo sobre la marcha.
 
-	•	Tamaño: en un proyecto personal pequeño, un modelo pesado como cascada o espiral genera más documentación de la necesaria.
-	•	Tiempo: las entregas cortas permiten tener una versión funcional pronto, aunque el tiempo disponible sea irregular.
-	•	Certeza de requisitos: en un proyecto personal los requisitos suelen cambiar mientras se avanza, y el enfoque incremental permite ajustarse sin rehacer todo.
+Como el tiempo disponible es limitado e irregular, un primer prototipo nos daría resultados visibles pronto y nos motivaría a seguir. Además, en un proyecto personal los requisitos rara vez están completamente claros al inicio: al ver el prototipo funcionando descubriríamos qué falta o qué sobra, y podríamos ajustarlo sin rehacer todo el trabajo.
+
+
 
