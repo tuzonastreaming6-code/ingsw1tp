@@ -12,6 +12,17 @@ La ingeniería de requerimientos es el conjunto de actividades que se hacen para
 **2. Explica la diferencia entre "requerimiento", "especificación de requisitos" e "ingeniería de requisitos", con un ejemplo de cada uno.**
 
 _Respuesta:_
+1.Requerimiento: Es una necesidad, condición o capacidad individual que el sistema debe cumplir o poseer para satisfacer un problema del cliente.
+
+Ejemplo: "El usuario debe poder iniciar sesión con su correo electrónico y contraseña."
+
+2.Especificación de requisitos: Es el documento formal o conjunto de modelos (como el ERS/SRS) donde se recopilan, estructuran y detallan todos los requerimientos de un proyecto.
+
+Ejemplo: Un documento PDF estructurado bajo el estándar IEEE 830 que incluye la arquitectura conceptual, los casos de uso descritos y la lista de requerimientos del sistema.
+
+3.Ingeniería de requisitos: Es la disciplina/área de la ingeniería de software que agrupa los procesos, técnicas y herramientas utilizadas para elicitar, analizar, especificar, validar y administrar dichos requerimientos a lo largo del ciclo de vida.
+
+Ejemplo: El conjunto de actividades realizadas por el equipo analista durante las primeras 3 semanas del proyecto, que incluyó entrevistas con el cliente, diseño de prototipos y reuniones de negociación.
 
 
 ---
@@ -22,9 +33,9 @@ _Respuesta:_
 
 | Tipo de requerimiento | Descripción |
 |---|---|
-| A. Funcional | ___ |
-| B. No funcional | ___ |
-| C. Del dominio | ___ |
+| A. Funcional | __Describe una función o servicio concreto que el sistema debe realizar.__ |
+| B. No funcional | __Restringe cómo debe comportarse el sistema (desempeño, seguridad, usabilidad, etc.)__ |
+| C. Del dominio | __Proviene de las reglas o restricciones propias del área o dominio de negocio.__ |
 
 1. Proviene de las reglas o restricciones propias del área o dominio de negocio.
 2. Describe una función o servicio concreto que el sistema debe realizar.
@@ -34,7 +45,7 @@ _Respuesta:_
 
 | Aspecto | Requerimientos de usuario | Requerimientos de sistema |
 |---|---|---|
-| Audiencia principal | | |
+| Audiencia principal | Clientes, usuarios finales, gerentes del negocio y patrocinadores.|Desarrolladores, arquitectos de software, evaluadores (QA) y gestores técnicos. |
 | Nivel de detalle | | |
 | Lenguaje utilizado | | |
 
