@@ -24,10 +24,9 @@ Un sistema es un conjunto de partes que trabajan juntos y se relacionan entre si
 
 
 **3. Piensa en un sistema cotidiano (por ejemplo, una biblioteca, un supermercado o un club deportivo) y completa la tabla con un ejemplo propio para cada propiedad.**
-|--||--||--|
 | Propiedad | Ejemplo en el sistema elegido | Ejemplo en el supermercado
 
-| Jerarquía:||__ El supermercado se organiza en niveles: gerencia general → jefes de sección (cajas, depósito, reposición, atención al cliente) → empleados de cada sección. Además, él mismo puede ser parte de un sistema mayor (una cadena de supermercados)__|
+| Jerarquía: El supermercado se organiza en niveles: gerencia general → jefes de sección (cajas, depósito, reposición, atención al cliente) → empleados de cada sección. Además, él mismo puede ser parte de un sistema mayor (una cadena de supermercados)
 | Límites (fronteras): Lo que está dentro: el local, los empleados, la mercadería y los sistemas de venta e inventario. Lo que queda fuera (el entorno): los proveedores, los clientes, la competencia y las regulaciones. La frontera separa lo que el supermercado controla de lo que no.
 | Interrelación de elementos: Las cajas dependen del sistema de inventario para descontar el stock; la reposición depende de lo que informa el depósito; el depósito depende de los pedidos a proveedores. Si falla uno, afecta a los demás (ej.: si el depósito no repone, las góndolas quedan vacías).
 | Propiedades emergentes: La "experiencia de compra" (poder atender a cientos de clientes a la vez, encontrar todo en un solo lugar, cobrar rápido) no la produce ninguna caja, góndola o empleado por separado: surge de la interacción de todos los elementos funcionando juntos
@@ -46,10 +45,10 @@ Además, se interrelaciona con los demás subsistemas: descuenta productos del i
 
 | Elemento | Descripción en el sistema elegido |
 |---|---|
-| Sistema elegido: WhatsApp — aplicación de mensajería que uso para comunicarme con clientes y contactos todos los días.
-| Una entrada: El mensaje de texto que escribo y los datos que ingreso (el contacto al que le envío, una foto o un archivo adjunto). Es lo que le doy al sistema para que procese.
-| Una salida: El mensaje ya entregado que aparece en la pantalla del destinatario con su tilde de "enviado, leído", y la notificación que recibe, es el resultado que el sistema produce.
-| Un elemento del entorno: La conexión a internet o la red del proveedor de telefonía. Está fuera del sistema WhatsApp, no la controla la app, pero WhatsApp depende de ella para funcionar. 
+| Sistema elegido: |__WhatsApp — aplicación de mensajería que uso para comunicarme con clientes y contactos todos los días.__|
+| Una entrada: |__El mensaje de texto que escribo y los datos que ingreso (el contacto al que le envío, una foto o un archivo adjunto). Es lo que le doy al sistema para que procese.__|
+| Una salida:|__El mensaje ya entregado que aparece en la pantalla del destinatario con su tilde de "enviado, leído", y la notificación que recibe, es el resultado que el sistema produce.__|
+| Un elemento del entorno:|__La conexión a internet o la red del proveedor de telefonía. Está fuera del sistema WhatsApp, no la controla la app, pero WhatsApp depende de ella para funcionar.__| 
 
 **6. ¿El sistema que elegiste es abierto o cerrado? Justifica tu respuesta.**
 
