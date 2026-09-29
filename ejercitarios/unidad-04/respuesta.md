@@ -46,12 +46,17 @@ Ejemplo: El conjunto de actividades realizadas por el equipo analista durante la
 | Aspecto | Requerimientos de usuario | Requerimientos de sistema |
 |---|---|---|
 | Audiencia principal | Clientes, usuarios finales, gerentes del negocio y patrocinadores.|Desarrolladores, arquitectos de software, evaluadores (QA) y gestores técnicos. |
-| Nivel de detalle | | |
-| Lenguaje utilizado | | |
+| Nivel de detalle | Alto nivel; abstracto, general y enfocado en la necesidad del negocio.	|Detallado; técnico, preciso e indicando el comportamiento explícito del software.| 
+| Lenguaje utilizado |Lenguaje natural sencillo, diagramas simples e historias de usuario (sin jerga técnica).	|Lenguaje estructurado, modelos UML, especificaciones técnicas y notación formal. | 
 
 **5. Elegí un sistema que conozcas (una app, una plataforma, un sistema de tu universidad o trabajo) y da un ejemplo propio de un requerimiento funcional y uno no funcional para ese mismo sistema.**
 
 _Respuesta:_
+*Sistema seleccionado: Plataforma web de Spotify.
+
+*Requerimiento Funcional (RF): El sistema debe permitir a los usuarios crear y organizar listas de reproducción (playlists) personalizadas agregando o quitando canciones.
+
+*Requerimiento No Funcional (RNF): El reproductor de audio debe iniciar la reproducción de la canción seleccionada en un tiempo menor a 1,5 segundos en conexiones de al menos 10 Mbps.
 
 
 ---
@@ -62,14 +67,15 @@ _Respuesta:_
 
 | Característica | Pregunta que permite verificarla |
 |---|---|
-| Correcto | |
-| No ambiguo | |
-| Completo | |
-| Verificable | |
+| Correcto | ¿El requerimiento refleja exactamente una necesidad real expresada por el cliente sin errores ni distorsiones?|
+| No ambiguo |¿Tiene una sola y única interpretación posible para cualquier persona que lo lea (desarrollador, usuario, QA)? |
+| Completo | ¿Contiene toda la información necesaria para implementarlo, incluyendo condiciones, entradas y salidas, sin dejar cabos sueltos?|
+| Verificable | ¿Existe una prueba cuantitativa o un caso de prueba concreto que permita comprobar de manera objetiva si se cumplió o no?|
 
 **7. Tomá el requerimiento "El sistema debe ser rápido" y reescribilo de forma que cumpla con las características de un buen requerimiento vistas en clase.**
 
 _Respuesta:_
+Versión corregida (Verificable e Inambigua): "El tiempo de respuesta del sistema para procesar y mostrar el resultado de una búsqueda en el catálogo debe ser inferior a 2 segundos bajo una carga simultánea de hasta 500 usuarios concurrentes."
 
 
 ---
@@ -88,9 +94,9 @@ _Respuesta:_
 
 | Técnica de obtención | Situación en que conviene usarla |
 |---|---|
-| A. Entrevistas | ___ |
-| B. Observación | ___ |
-| C. Talleres / workshops | ___ |
+| A. Entrevistas | _3__ |
+| B. Observación | __1_ |
+| C. Talleres / workshops | _2__ |
 
 1. Cuando el usuario no puede verbalizar fácilmente lo que necesita.
 2. Cuando hay varios interesados con visiones distintas que negociar.
@@ -116,6 +122,11 @@ _Respuesta:_
 **11. ¿Qué es una especificación formal y en qué tipo de sistemas se justifica su uso? Da un ejemplo hipotético de un sistema donde la usarías.**
 
 _Respuesta:_
+¿Qué es?: Es una descripción matemática y rigurosa del comportamiento del software utilizando notación lógica formal (como Notación Z o VDM) para eliminar cualquier tipo de ambigüedad.
+
+¿En qué sistemas se justifica su uso?: En sistemas críticos (safety-critical o mission-critical) donde un error de especificación puede causar pérdidas humanas, catástrofes ambientales o grandes pérdidas financieras.
+
+Ejemplo hipotético: El sistema de control de piloto automático y navegación de un avión comercial de pasajeros.
 
 
 ---
@@ -125,6 +136,13 @@ _Respuesta:_
 **12. Explica la diferencia entre un prototipo desechable y un prototipo evolutivo, con un ejemplo de un proyecto donde usarías cada uno.**
 
 _Respuesta:_
+1.Prototipo desechable (Throwaway): Se construye de forma rápida y económica para explorar o aclarar requisitos ambiguos con el usuario, y luego se descarta totalmente (no se usa para el sistema final).
+
+Ejemplo: Maquetas en papel o mockups interactivos creados en Figma para validar con un grupo de médicos cómo prefieren ver los datos en la pantalla de una clínica.
+
+2.Prototipo evolutivo: Se desarrolla una versión inicial limpia y funcional del software que cumple con los requisitos mejor comprendidos; este prototipo no se desecha, sino que se refina y amplía progresivamente hasta convertirse en el producto final.
+
+Ejemplo: El desarrollo del producto mínimo viable (MVP) de una tienda e-commerce donde la base del código inicial se conserva y sobre ella se agregan pasarelas de pago y módulos de inventario en entregas sucesivas.
 
 
 ---
@@ -134,7 +152,9 @@ _Respuesta:_
 **13. Menciona dos técnicas de construcción rápida de prototipos vistas en clase y explica brevemente en qué consiste cada una.**
 
 _Respuesta:_
+1.Modelado visual mediante maquetadores UI / Herramientas de prototipado (Mockups/Wireframing): Uso de herramientas de diseño interactivo (ej. Figma, Balsamiq) que permiten crear interfaces de usuario navegables a partir de componentes preconstruidos, sin escribir código de backend.
 
+2.Desarrollo impulsado por bases de datos / Plataformas Low-Code: Uso de frameworks o plataformas que generan automáticamente formularios web, tablas de datos e interfaces CRUD a partir del diseño básico del esquema de datos.
 
 ---
 
@@ -144,9 +164,9 @@ _Respuesta:_
 
 | Técnica de validación | Qué tipo de problema detecta mejor |
 |---|---|
-| Revisiones de requisitos | |
-| Prototipado | |
-| Generación de casos de prueba | |
+| Revisiones de requisitos | Qué tipo de problema detecta mejor|
+| Prototipado |Malos entendidos en la experiencia de usuario (UX), flujos de trabajo ilógicos y requisitos no funcionales de usabilidad. |
+| Generación de casos de prueba |Requerimientos imposibles de verificar, inconsistencias lógicas en reglas de negocio y falta de detalle en escenarios límite (edge cases). |
 
 ---
 
