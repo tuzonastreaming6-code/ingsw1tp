@@ -91,7 +91,7 @@ Trabajo en equipo y colaboración: capacidad para coordinarse con otros profesio
 
 | Rol | Descripción |
 |---|---|
-| Analista : Recopila y analiza las necesidades del usuario para definir los requisitos del sistema. 
+| Analista | __Recopila y analiza las necesidades del usuario para definir los requisitos del sistema.__|
 | Arquitecto : Diseña la estructura general del software y define las tecnologías y componentes que se utilizarán.
 | Desarrollador: Escribe el código y construye las funcionalidades del sistema según los requisitos establecidos
 | Tester / QA : Realiza pruebas para detectar errores y verificar que el software funcione correctamente y cumpla con la calidad esperada.
