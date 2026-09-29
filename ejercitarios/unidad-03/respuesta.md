@@ -140,6 +140,12 @@ _Respuesta:_
 **13. ¿Qué es un patrón de proceso? Da un ejemplo hipotético de un problema recurrente en un proyecto y su solución.**
 
 _Respuesta:_
+Un **patrón de proceso** es una solución probada y reutilizable a un problema recurrente en la gestión o el desarrollo de un proyecto de software.
+
+**Ejemplo:**
+- **Problema:** El equipo integra su código solo al final del sprint, lo que genera conflictos y errores de última hora.
+- **Solución (Integración continua):** Cada desarrollador integra cambios al menos una vez al día y un servidor compila y ejecuta pruebas automáticamente.
+- **Resultado:** Los errores se detectan pronto y las entregas son más estables.
 
 
 ---
@@ -149,17 +155,29 @@ _Respuesta:_
 **14. Explica la diferencia entre herramientas Upper-CASE y Lower-CASE.**
 
 _Respuesta:_
+**Upper-CASE:** herramientas que apoyan las **primeras fases** del ciclo de vida: planificación, análisis de requisitos y diseño. Ejemplos: diagramas UML, modelado de datos, prototipos, gestión de requisitos.
+
+**Lower-CASE:** herramientas que apoyan las **últimas fases**: implementación, pruebas y mantenimiento. Ejemplos: compiladores, depuradores, generadores de código, herramientas de pruebas y control de versiones.
+
+**Diferencia clave:** Upper-CASE se centra en *qué construir y cómo diseñarlo*; Lower-CASE, en *construirlo, probarlo y mantenerlo*. Las herramientas que cubren ambas etapas se llaman **I-CASE** (integradas).
 
 
 **15. Menciona tres herramientas que consideren CASE (de su propia experiencia o investigación) y clasifíquenlas según la categoría a la que pertenecen.**
 
 | Herramienta | Categoría (Upper / Lower / I-CASE) |
 |---|---|
-| | |
-| | |
-| | |
+| Lucidchart / Visual
+Paradigm (diagramas UML) | Upper-CASE |
+| Git + GitHub (control de versiones) | Lower-CASE |
+| Enterprise Architect
+(modelado y generación de código) | I-CASE |
 
 **16. Reflexión final:** de los modelos de proceso vistos en esta unidad, ¿cuál elegirían para un proyecto personal? Justifiquen su elección considerando el tamaño del proyecto, el tiempo disponible y el nivel de certeza sobre los requisitos.
 
 _Respuesta:_
+Elegiría un modelo incremental/ágil (por ejemplo, Scrum simplificado o Kanban).
+
+	•	Tamaño: en un proyecto personal pequeño, un modelo pesado como cascada o espiral genera más documentación de la necesaria.
+	•	Tiempo: las entregas cortas permiten tener una versión funcional pronto, aunque el tiempo disponible sea irregular.
+	•	Certeza de requisitos: en un proyecto personal los requisitos suelen cambiar mientras se avanza, y el enfoque incremental permite ajustarse sin rehacer todo.
 
