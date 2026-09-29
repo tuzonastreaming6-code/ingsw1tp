@@ -32,6 +32,11 @@ Ejemplo: El proceso general de desarrollar un sistema, que incluye las actividad
 **4. Menciona dos actividades "de la sombrilla" y explica por qué se dice que "cubren" todo el proceso.**
 
 _Respuesta:_
+1.Seguimiento y control del proyecto de software: Permite evaluar el progreso frente al plan y aplicar medidas correctivas si hay desviaciones.
+
+2.Garantía de calidad del software (SQA): Actividades para asegurar que los productos entregados cumplan con los estándares de calidad requeridos.
+
+¿Por qué "cubren" todo el proceso? Se las llama actividades sombrilla (umbrella activities) porque no pertenecen a una fase específica o secuencial, sino que se ejecutan de manera horizontal y continua desde el inicio hasta el final de cualquier proyecto.
 
 
 ---
@@ -55,7 +60,7 @@ _Respuesta:_
 | A. Cascada | ___ |
 | B. Incremental | ___ |
 | C. Prototipos | ___ |
-| D. Espiral | ___ |
+| D. Espiral | _Combina iteración con análisis explícito de riesgo en cada vuelta.__ |
 | E. Concurrente | ___ |
 
 1. Combina iteración con análisis explícito de riesgo en cada vuelta.
@@ -67,7 +72,11 @@ _Respuesta:_
 **7. Elegí un proyecto de software (hipotético o real) y justificá qué modelo de proceso usarías para desarrollarlo y por qué.**
 
 _Respuesta:_
+Proyecto: Desarrollo de una aplicación móvil para la gestión y reserva de turnos en una cadena de barberías.
 
+Modelo elegido: Modelo Incremental.
+
+Justificación: Permite lanzar rápidamente una primera versión operativa (Incr. 1: registro de usuarios y agenda básica de turnos) para que el negocio empiece a operarla de inmediato. Luego, mediante nuevos incrementos, se pueden sumar funciones más complejas (Incr. 2: pagos en línea, Incr. 3: programa de fidelización y notificaciones), reduciendo el tiempo de salida al mercado (Time-to-Market) y absorbiendo retroalimentación real del usuario sin detener la operación.
 
 ---
 
@@ -76,11 +85,15 @@ _Respuesta:_
 **8. Explica con tus palabras por qué la mayoría de los procesos modernos son iterativos.**
 
 _Respuesta:_
+Porque en la práctica los requisitos rara vez son fijos o totalmente claros desde el principio. La tecnología evoluciona rápido y las necesidades del cliente o del negocio cambian con frecuencia. Un proceso iterativo permite validar entregas parciales constantemente con los usuarios, aprender del feedback y corregir el rumbo a bajo costo antes de que sea demasiado tarde.
 
 
 **9. Menciona una ventaja y una desventaja de trabajar con iteraciones cortas.**
 
 _Respuesta:_
+Ventaja: Permite obtener retroalimentación rápida del usuario final y detectar errores o desviaciones de diseño tempranamente, disminuyendo el costo del cambio.
+
+Desventaja: Puede generar sobrecarga administrativa (overhead) por la alta frecuencia de reuniones, planificación, pruebas e integraciones constantes si el equipo no cuenta con automatización adecuada.
 
 
 ---
@@ -108,6 +121,9 @@ _Respuesta:_
 **12. Menciona dos formas de representar un proceso (no un sistema) y explica brevemente cada una.**
 
 _Respuesta:_
+1.Diagramas de Flujo de Datos / Diagramas de Actividad (UML): Representación gráfica que utiliza símbolos normalizados para ilustrar la secuencia lógica de pasos, decisiones, entradas, salidas y el flujo de trabajo dentro del proceso.
+
+2.Representación en Lenguaje Natural Estructurado (o PSDL - Process Software Description Language): Uso de plantillas textuales con palabras clave estructuradas (ej. Premisas, Entradas, Pasos, Salidas, Roles involucrados) que describen de forma precisa cada paso sin margen a interpretaciones ambiguas.
 
 
 **13. ¿Qué es un patrón de proceso? Da un ejemplo hipotético de un problema recurrente en un proyecto y su solución.**
