@@ -166,8 +166,7 @@ _Respuesta:_
 
 | Herramienta | Categoría |
 |---|---|
-| Lucidchart / Visual
-Paradigm (diagramas UML) | Upper-CASE |
+| Lucidchart / Visual Paradigm (diagramas UML) | Upper-CASE |
 | Git + GitHub (control de versiones) | Lower-CASE |
 | Enterprise Architect (modelado y generación de código) | I-CASE |
 
