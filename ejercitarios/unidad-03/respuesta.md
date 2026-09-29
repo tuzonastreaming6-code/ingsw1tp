@@ -104,14 +104,25 @@ Desventaja: Puede generar sobrecarga administrativa (overhead) por la alta frecu
 
 | Actividad | Qué implica |
 |---|---|
-| Especificación | |
-| Diseño e implementación | |
-| Validación | |
-| Evolución | |
+| Especificación |Definir qué debe hacer el software, sus funcionalidades clave y las restricciones operativas que debe cumplir (análisis de requisitos).|
+| Diseño e implementación |Diseñar la estructura del software (arquitectura, datos, interfaz) y escribir el código fuente para construir la solución concreta. |
+| Validación |Verificarse y probar el software con respecto a la especificación para asegurar que cumple con lo que el cliente realmente espera. |
+| Evolución |Modificar y actualizar el software ya entregado para adaptarlo a nuevos requisitos, cambios del entorno o corregir errores durante su ciclo de vida. |
 
 **11. Relaciona estas cuatro actividades con las cinco fases del ciclo del software vistas en la Unidad 1 (análisis, diseño, implementación, pruebas, mantenimiento). ¿En qué se parecen y en qué se diferencian?**
 
 _Respuesta:_
+Semejanzas: Ambas clasificaciones cubren exactamente las mismas responsabilidades técnicas necesarias para construir software. Existe una correspondencia directa entre conceptos:
+
+Especificación equivale a Análisis.
+
+Diseño e Implementación equivale a Diseño e Implementación (codificación).
+
+Validación equivale a Pruebas.
+
+Evolución equivale a Mantenimiento.
+
+Diferencias: Las 5 fases tradicionales tienden a asociarse con un enfoque secuencial (una fase termina y empieza la otra), mientras que la propuesta de Sommerville presenta estas cuatro fases como actividades fundamentales continuas que se intercalan constantemente en bucles o iteraciones.
 
 
 ---
