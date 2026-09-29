@@ -129,9 +129,9 @@ Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar p
 | Área | ¿Cómo apoya a la Ingeniería de Software? |
 |---|---|
 | Estructuras de datos y algoritmos:|__Permiten organizar, almacenar y procesar información de manera eficiente, mejorando el rendimiento de los programas.__|
-| Bases de datos: Facilitan el almacenamiento, gestión y recuperación de grandes cantidades de información de forma segura y organizada.
-| Sistemas operativos: Proporcionan los recursos y servicios necesarios para que el software pueda ejecutarse correctamente en un equipo.
-| Redes: Permiten la comunicación e intercambio de información entre sistemas y usuarios mediante conexiones locales o internet.
+| Bases de datos:|__Facilitan el almacenamiento, gestión y recuperación de grandes cantidades de información de forma segura y organizada.__|
+| Sistemas operativos: |__Proporcionan los recursos y servicios necesarios para que el software pueda ejecutarse correctamente en un equipo.__|
+| Redes: |__Permiten la comunicación e intercambio de información entre sistemas y usuarios mediante conexiones locales o internet.__|
 
 ---
 
