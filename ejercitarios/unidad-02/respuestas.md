@@ -24,10 +24,10 @@ Un sistema es un conjunto de partes que trabajan juntos y se relacionan entre si
 
 
 **3. Piensa en un sistema cotidiano (por ejemplo, una biblioteca, un supermercado o un club deportivo) y completa la tabla con un ejemplo propio para cada propiedad.**
-
+|--||--||--|
 | Propiedad | Ejemplo en el sistema elegido | Ejemplo en el supermercado
 
-| Jerarquía: El supermercado se organiza en niveles: gerencia general → jefes de sección (cajas, depósito, reposición, atención al cliente) → empleados de cada sección. Además, él mismo puede ser parte de un sistema mayor (una cadena de supermercados)
+| Jerarquía:||__ El supermercado se organiza en niveles: gerencia general → jefes de sección (cajas, depósito, reposición, atención al cliente) → empleados de cada sección. Además, él mismo puede ser parte de un sistema mayor (una cadena de supermercados)__|
 | Límites (fronteras): Lo que está dentro: el local, los empleados, la mercadería y los sistemas de venta e inventario. Lo que queda fuera (el entorno): los proveedores, los clientes, la competencia y las regulaciones. La frontera separa lo que el supermercado controla de lo que no.
 | Interrelación de elementos: Las cajas dependen del sistema de inventario para descontar el stock; la reposición depende de lo que informa el depósito; el depósito depende de los pedidos a proveedores. Si falla uno, afecta a los demás (ej.: si el depósito no repone, las góndolas quedan vacías).
 | Propiedades emergentes: La "experiencia de compra" (poder atender a cientos de clientes a la vez, encontrar todo en un solo lugar, cobrar rápido) no la produce ninguna caja, góndola o empleado por separado: surge de la interacción de todos los elementos funcionando juntos
