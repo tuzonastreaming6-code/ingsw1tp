@@ -164,7 +164,7 @@ _Respuesta:_
 
 **15. Menciona tres herramientas que consideren CASE (de su propia experiencia o investigación) y clasifíquenlas según la categoría a la que pertenecen.**
 
-| Herramienta | Categoría (Upper / Lower / I-CASE) |
+| Herramienta | Categoría |
 |---|---|
 | Lucidchart / Visual
 Paradigm (diagramas UML) | Upper-CASE |
