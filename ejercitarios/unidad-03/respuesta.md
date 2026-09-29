@@ -21,7 +21,7 @@ Ejemplo: El proceso general de desarrollar un sistema, que incluye las actividad
 
 
 **3. Enumera las cinco actividades genéricas del marco de trabajo de Pressman.**
-1- Comunicacion
+1- Comunicacion 
 2- Planeacion
 3- Modelado
 4- Construccion
@@ -57,11 +57,11 @@ _Respuesta:_
 
 | Modelo de proceso | Característica principal |
 |---|---|
-| A. Cascada | ___ |
-| B. Incremental | ___ |
-| C. Prototipos | ___ |
-| D. Espiral | _Combina iteración con análisis explícito de riesgo en cada vuelta.__ |
-| E. Concurrente | ___ |
+| A. Cascada | __Enfoque secuencial y lineal, actividad por actividad.__ |
+| B. Incremental | __Entrega el producto en porciones funcionales cada vez más completas.__ |
+| C. Prototipos | __Construye una versión parcial y rápida para validar requisitos poco claros.__ |
+| D. Espiral | __Combina iteración con análisis explícito de riesgo en cada vuelta.__ |
+| E. Concurrente | __Representa actividades ocurriendo en paralelo, no en secuencia estricta.__ |
 
 1. Combina iteración con análisis explícito de riesgo en cada vuelta.
 2. Enfoque secuencial y lineal, actividad por actividad.
