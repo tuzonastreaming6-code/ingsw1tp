@@ -110,10 +110,10 @@ Versión corregida (Verificable e Inambigua): "El tiempo de respuesta del sistem
 
 | Técnica | Ventaja | Limitación |
 |---|---|---|
-| Lenguaje natural estructurado | | |
-| Casos de uso | | |
-| Historias de usuario | | |
-| Diagramas (UML) | | |
+| Lenguaje natural estructurado |Fácil de leer para cualquiera y más ordenado que el texto libre | Aún puede ser ambiguo y se vuelve extenso |
+| Casos de uso |Muestran la interacción usuario-sistema paso a paso | Poco útiles para requerimientos no funcionales |
+| Historias de usuario | Breves, centradas en el valor y fáciles de priorizar | Poco detalle; requieren conversación y criterios de aceptación |
+| Diagramas (UML) | Dan una visión clara y compacta de estructura y comportamiento | Requieren conocer la notación; el cliente puede no entenderlos |
 
 ---
 
@@ -184,9 +184,18 @@ La trazabilidad de requerimientos es la capacidad de seguirle el rastro a cada r
 **16. Menciona dos métricas que se pueden aplicar a los requerimientos de un proyecto y qué información le aporta cada una al equipo.**
 
 _Respuesta:_
+Es una descripción del comportamiento del sistema escrita en un lenguaje con sintaxis y semántica matemáticas precisas (por ejemplo Z, B o VDM). Al no tener ambigüedades, permite razonar sobre los requerimientos y demostrar que el diseño y el código los cumplen.
 
+Se justifica en sistemas críticos, donde un error puede costar vidas o mucho dinero: aviación, equipos médicos, control ferroviario, sistemas nucleares o financieros. Es costosa y requiere personal especializado, así que no conviene en sistemas comunes.
+
+Ejemplo: el software de control de una bomba de infusión de medicamentos. Formalmente se puede especificar que la dosis nunca supere el máximo configurado y que la bomba se detenga ante una falla, y verificar esas propiedades antes de programar.
 
 **17. Reflexión final:** pensá en un proyecto de software (hipotético o real). Describí qué técnica de obtención, qué técnica de especificación y qué técnica de validación usarías para sus requerimientos, y justificá tu elección considerando el tipo de proyecto y de usuarios.
 
 _Respuesta:_
+Supongamos una app móvil de turnos para una clínica, usada por pacientes de todas las edades y por personal administrativo.
+Obtención: entrevistas y observación. Con el personal administrativo hago entrevistas. Con los pacientes, muchos poco familiarizados con la tecnología, observo cómo sacan turnos hoy, porque suelen no saber explicar lo que necesitan.
+Especificación: historias de usuario con criterios de aceptación. Son simples, comprensibles para usuarios no técnicos y se adaptan bien a cambios, algo esperable en una app con muchos tipos de usuarios. Para flujos críticos, como la cancelación de turnos, sumaría algún caso de uso.
+Validación: prototipos y revisiones con usuarios reales. Un prototipo navegable permite que los pacientes prueben el flujo antes de programar. Así se detectan errores de comprensión temprano, cuando corregirlos es barato.
+
 
