@@ -42,11 +42,11 @@ _Respuesta:_
 
 | Modelo | ¿Cuándo conviene usarlo? |
 |---|---|
-| Cascada | |
-| Incremental | |
-| Evolutivo (prototipos) | |
-| Evolutivo (espiral) | |
-| Concurrente | |
+| Cascada | |Cuando los requisitos están perfectamente definidos, son estables y no van a cambiar durante el desarrollo; además el dominio de la tecnología es alto.|
+| Incremental | |Cuando se necesita entregar un producto funcional al cliente en poco tiempo y se planea ir añadiendo funcionalidades en entregas sucesivas.|
+| Evolutivo (prototipos) | |Cuando los requisitos son difusos o poco claros y el cliente necesita interactuar con una versión preliminar para entender y definir lo que realmente necesita.|
+| Evolutivo (espiral) | En proyectos de gran tamaño, complejos y de alto riesgo donde se requiere un análisis explícito y formal de riesgos en cada iteración.|
+| Concurrente | |En proyectos donde diferentes equipos trabajan simultáneamente sobre distintas partes del sistema y cada módulo se encuentra en un estado de desarrollo diferente.|
 
 **6. Ejercicio de relación** (completá con el número que corresponda a cada letra):
 
