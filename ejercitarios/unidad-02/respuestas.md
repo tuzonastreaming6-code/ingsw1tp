@@ -52,17 +52,20 @@ Además, se interrelaciona con los demás subsistemas: descuenta productos del i
 
 **6. ¿El sistema que elegiste es abierto o cerrado? Justifica tu respuesta.**
 
-_Respuesta:_
+_Respuesta:_ 
+_El sistema WhatsApp es un sistema abierto porque interactúa constantemente con su entorno externo, como la conexión a internet, los dispositivos móviles, los servidores y los usuarios. Depende de estas interacciones externas para funcionar correctamente, recibiendo entradas (mensajes) y entregando salidas (mensajes enviados y notificaciones), y se adapta a cambios del entorno, como la disponibilidad de red._
 
 
 **7. Explica con tus palabras qué es la retroalimentación (feedback) en un sistema y da un ejemplo.**
 
 _Respuesta:_
+_La retroalimentación es la información que un sistema recibe sobre sus propias acciones o resultados para poder ajustarse o mejorar su funcionamiento. Por ejemplo, en WhatsApp, cuando envío un mensaje y veo las marcas de "enviado" y "leído", esa información me sirve para saber si el mensaje llegó correctamente y fue leído, lo que podría hacer que reenvíe el mensaje o realice alguna otra acción._
 
 
 **8. Para el mismo sistema, menciona una restricción externa real que podría afectarlo, indicando si es organizacional, regulatoria o tecnológica.**
 
 _Respuesta:_
+_Una restricción tecnológica que puede afectar a WhatsApp es la calidad y disponibilidad de la conexión a internet. Si la red es lenta o inestable, el envío y recepción de mensajes se retrasan o fallan, afectando la funcionalidad del sistema. También podría haber restricciones regulatorias, como las leyes de privacidad de datos en diferentes países, que limitan cómo se almacenan o transmiten los mensajes._
 
 
 ---
@@ -109,6 +112,7 @@ _(Arrastrá la imagen a este archivo desde el editor de GitHub para insertarla)_
 **13. ¿En qué situación elegirías usar simulación en lugar de un modelo estático? Da un ejemplo concreto.**
 
 _Respuesta:_
+_Elegiría usar simulación cuando quiero estudiar cómo se comporta un sistema a lo largo del tiempo y bajo diferentes condiciones cambiantes, ya que un modelo estático solo muestra la estructura o el estado en un momento dado. Por ejemplo, para estudiar el flujo de clientes y tiempos de espera en un supermercado en diferentes horarios, una simulación permite observar cómo varía el rendimiento y ajustar recursos en función de esos resultados._
 
 
 ---
