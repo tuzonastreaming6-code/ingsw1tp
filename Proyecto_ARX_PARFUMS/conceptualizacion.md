@@ -1,5 +1,6 @@
 1. Presentación del proyecto
-Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXPARFUMS
+Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXPARFUMS.
+
 Integrantes del grupo:
 Nombre	    Rol
 Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente)
