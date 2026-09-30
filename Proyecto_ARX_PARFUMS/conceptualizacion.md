@@ -143,6 +143,7 @@ ________________________________________
 
 9. Riesgos iniciales
 
+
 |Riesgo|Impacto |	Estrategia de mitigación|
 |---|---|
 |- Baja disponibilidad del cliente para reuniones y validaciones.|Alto|Agendar reuniones cortas quincenales fijas; validar avances por WhatsApp con capturas y mockups; un integrante actúa como enlace único con el cliente.|
