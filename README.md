@@ -6,17 +6,18 @@ Este repositorio contiene el análisis y diseño del sistema **[Nombre del Siste
 
 El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se envían archivos impresos ni copias por otros medios.**
 
-🔗 **Sitio publicado:** `https://[usuario-o-organizacion].github.io/[nombre-del-repositorio]/`
+🔗 **Sitio publicado:** `https://tuzonastreaming6-code.github.io/ings1tp/
 
----
+
 
 ## Integrantes del grupo
 
 | Nombre completo | Rol / Responsabilidad principal | Usuario de GitHub |
 |---|---|---|
-| [Nombre 1] | [ej. Análisis de requisitos] | [@usuario1] |
-| [Nombre 2] | [ej. Modelado y diagramas] | [@usuario2] |
-| [Nombre 3] | [ej. Diseño técnico y documentación] | [@usuario3] |
+| Alan Jose Fabian Cabrera Caceres | Analisis | @tuzonastreaming6-code |
+| Alba Marina Lopez Palacios | Diseñador UX |[@albamarinita |
+|Horacio Marcelo Cano Rojas  | Diseñador Base de datos | @iammarce |
+|Sebastian David Prieto Aguero | Diseñador UI | @sebaspriet0 |
 
 ## Usuario / cliente real
 
