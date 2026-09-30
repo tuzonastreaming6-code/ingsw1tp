@@ -2,7 +2,7 @@
 
 > Plantilla base para el repositorio del grupo. Reemplacen todo el texto entre `[corchetes]` por la información real de su proyecto.
 
-Este repositorio contiene el análisis y diseño del sistema **[Nombre del Sistema]**, desarrollado como Trabajo Práctico Integrador de la asignatura **Ingeniería de Software**.
+Este repositorio contiene el análisis y diseño del sistema **Sistema Web con ecommerce**, desarrollado como Trabajo Práctico Integrador de la asignatura **Ingeniería de Software**.
 
 El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se envían archivos impresos ni copias por otros medios.**
 
