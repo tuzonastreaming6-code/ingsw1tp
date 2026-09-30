@@ -146,10 +146,8 @@ ________________________________________
 |Riesgo|Impacto |	Estrategia de mitigación|
 |---|---|
 |- Baja disponibilidad del cliente para reuniones y validaciones.|Alto|Agendar reuniones cortas quincenales fijas; validar avances por WhatsApp con capturas y mockups; un integrante actúa como enlace único con el cliente.|
-
-- Incompatibilidades al integrar el inventario con el POS existente (estructura de base de datos distinta).	Alto,	Analizar en la etapa de Análisis el modelo de datos actual del POS; definir una capa de acceso común al stock; hacer pruebas sobre una copia de la base, nunca sobre producción.
-
-- Crecimiento del alcance (el cliente pide nuevas funciones, ej. pago con tarjeta, cuotas en línea).	Alto,	Documentar el alcance en esta entrega y validarlo con el cliente; toda nueva solicitud se registra como mejora para una versión futura.
+|- Incompatibilidades al integrar el inventario con el POS existente (estructura de base de datos distinta).|	Alto|Analizar en la etapa de Análisis el modelo de datos actual del POS; definir una capa de acceso común al stock; hacer pruebas sobre una copia de la base, nunca sobre producción.|
+|- Crecimiento del alcance (el cliente pide nuevas funciones, ej. pago con tarjeta, cuotas en línea).|	Alto|Documentar el alcance en esta entrega y validarlo con el cliente; toda nueva solicitud se registra como mejora para una versión |futura.
 
 - Falta de tiempo del grupo por otras materias y exámenes.	Medio,	Planificación por iteraciones cortas con tareas asignadas por integrante; seguimiento semanal en el tablero del repositorio (GitHub Projects).
 
