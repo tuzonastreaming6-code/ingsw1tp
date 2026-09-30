@@ -89,7 +89,8 @@ Incluye (dentro del alcance) — Versión 1:
 
 8. Glosario de términos
 
-Término - Definición
+|Término | Definición|
+|---|---|
 
 - Producto:	Perfume u otro artículo que ARX Parfums ofrece a la venta. Tiene marca, nombre, género, familia olfativa, presentaciones, precio e imágenes.
   
