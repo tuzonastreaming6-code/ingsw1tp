@@ -143,9 +143,9 @@ ________________________________________
 
 9. Riesgos iniciales
 
-Riesgo	- Impacto -	Estrategia de mitigación
-
-- Baja disponibilidad del cliente para reuniones y validaciones.	Alto,	Agendar reuniones cortas quincenales fijas; validar avances por WhatsApp con capturas y mockups; un integrante actúa como enlace único con el cliente.
+|Riesgo|Impacto |	Estrategia de mitigación|
+|---|---|
+|- Baja disponibilidad del cliente para reuniones y validaciones.|Alto|Agendar reuniones cortas quincenales fijas; validar avances por WhatsApp con capturas y mockups; un integrante actúa como enlace único con el cliente.|
 
 - Incompatibilidades al integrar el inventario con el POS existente (estructura de base de datos distinta).	Alto,	Analizar en la etapa de Análisis el modelo de datos actual del POS; definir una capa de acceso común al stock; hacer pruebas sobre una copia de la base, nunca sobre producción.
 
