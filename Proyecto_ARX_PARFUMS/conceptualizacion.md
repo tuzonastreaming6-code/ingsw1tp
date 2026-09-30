@@ -25,10 +25,15 @@ Situación actual. ARX Parfums vende sus productos de dos formas:
 - Problemática concreta.
   
 •	Atención 100 % manual: cada consulta ("¿cuánto sale?", "¿hay stock?", "¿qué tamaño tiene?") debe responderse una por una, lo que consume mucho tiempo y genera demoras; muchas consultas fuera de horario se pierden.
+
 •	Catálogo disperso y desactualizado: los productos están repartidos en publicaciones y estados; el cliente no puede ver el catálogo completo, filtrar por marca, familia olfativa o precio, ni saber si un producto sigue disponible.
+
 •	Stock desincronizado: las ventas por WhatsApp no siempre se cargan a tiempo en el POS, por lo que se ofrecen productos sin existencia o se venden dos veces.
+
 •	Pedidos sin trazabilidad: los pedidos quedan en conversaciones de chat; no hay registro ordenado de estado (pendiente, pagado, enviado, entregado), ni historial por cliente.
+
 •	Verificación de pagos lenta: los comprobantes de transferencia llegan como capturas por chat y deben verificarse a mano.
+
 •	Alcance limitado: el negocio depende del horario y de la disponibilidad del vendedor para atender, lo que limita el crecimiento de las ventas en el interior del país.
 ________________________________________
 3. Propósito y objetivos
