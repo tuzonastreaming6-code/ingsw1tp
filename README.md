@@ -15,13 +15,13 @@ El sitio publicado en GitHub Pages es la entrega oficial del trabajo. **No se en
 | Nombre completo | Rol / Responsabilidad principal | Usuario de GitHub |
 |---|---|---|
 | Alan Jose Fabian Cabrera Caceres | Analisis | @tuzonastreaming6-code |
-| Alba Marina Lopez Palacios | Diseñador UX |[@albamarinita |
+| Alba Marina Lopez Palacios | Diseñador UX |@albamarinita |
 |Horacio Marcelo Cano Rojas  | Diseñador Base de datos | @iammarce |
 |Sebastian David Prieto Aguero | Diseñador UI | @sebaspriet0 |
 
 ## Usuario / cliente real
 
-**[Nombre del usuario o cliente]** — [breve descripción de quién es y por qué necesita el sistema].
+**ARX PARFUMS** — Vendedor de perfumes, necesita el sistema para controlar stock, ventas y vender por redes .
 
 ## Metodología de diseño y desarrollo elegida
 
