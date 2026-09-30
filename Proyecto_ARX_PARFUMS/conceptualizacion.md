@@ -80,11 +80,33 @@ Incluye (dentro del alcance) — Versión 1:
 
 •	Ventas a cuotas en línea: el crédito y las cuotas siguen gestionándose exclusivamente desde el POS.
 
-.
-.
-.
-
-
+________________________________________
+5. Interesados (stakeholders)
+Interesado	Descripción	Interés en el proyecto
+Cliente final (comprador)	Persona que compra perfumes al por menor desde cualquier punto del país, principalmente desde el celular.	Ver el catálogo completo con precios y stock reales, comprar a cualquier hora de forma simple y seguir el estado de su pedido.
+Cliente (dueño/a de ARX Parfums)	Propietario/a del negocio y quien financia y valida el proyecto.	Aumentar las ventas, reducir el tiempo de atención manual, tener control ordenado de pedidos y stock, y contar con reportes para tomar decisiones.
+Administrador del sistema	Persona del negocio (o el equipo de desarrollo durante el soporte) encargada de configurar el sistema, usuarios y catálogo.	Un sistema fácil de mantener, con roles y permisos claros, respaldos y seguridad.
+Vendedor / personal de despacho	Empleado que atiende pedidos, verifica pagos y prepara envíos.	Ver en un solo lugar los pedidos pendientes, confirmar pagos rápidamente y actualizar estados sin duplicar carga en el POS.
+Revendedor mayorista	Cliente que compra por volumen para revender.	Consultar disponibilidad y precios de forma rápida para hacer sus pedidos.
+Equipo de desarrollo (grupo)	Integrantes del grupo de Ingeniería de Software.	Desarrollar un sistema real y bien documentado que cumpla los requisitos de la cátedra.
+Cátedra de Ingeniería de Software	Docentes que evalúan el trabajo práctico.	Verificar la aplicación correcta del proceso de análisis y diseño de software.
+________________________________________
+6. Justificación / viabilidad
+Viabilidad técnica: Alta. El grupo tiene experiencia práctica en desarrollo web con PHP y MySQL; uno de los integrantes desarrolló y mantiene el sistema POS actual de ARX Parfums, por lo que conoce su base de datos y sus reglas de negocio. Las tecnologías elegidas son de uso libre, ampliamente documentadas y con gran comunidad. Los conocimientos que faltan (framework Laravel, buenas prácticas de e-commerce) pueden adquirirse durante el cuatrimestre con documentación oficial y cursos gratuitos.
+Viabilidad operativa: Alta. El personal del negocio ya utiliza a diario un sistema web (el POS), por lo que está habituado a este tipo de herramientas. El panel de administración se diseñará con una interfaz similar y simple, y se entregará una guía de uso. El cliente tiene interés directo en el proyecto y está disponible para validar requisitos, lo que reduce la resistencia al cambio.
+Viabilidad económica (alto nivel): Alta. Todo el software a utilizar es libre y gratuito (PHP, Laravel, MySQL, Bootstrap). El costo operativo principal es un hosting compartido o VPS básico y un dominio, de bajo costo mensual para un comercio. El esfuerzo de desarrollo lo asume el grupo en el marco de la materia. El beneficio esperado (más ventas fuera de horario, menos horas de atención manual, menos errores de stock) justifica ampliamente la inversión.
+________________________________________
+7. Visión general de la solución
+ARX Store será una tienda en línea propia de ARX Parfums a la que el cliente podrá entrar desde el celular o la computadora. Allí verá todos los perfumes disponibles con fotos, precios y descripción, podrá buscarlos y filtrarlos, agregarlos a un carrito y hacer su pedido sin tener que escribir a nadie. Al finalizar elegirá cómo pagar (transferencia, subiendo el comprobante, o contra entrega) y cómo recibir el producto (retiro en local o envío).
+Del lado del negocio, el personal tendrá un panel de administración donde verá cada pedido nuevo, confirmará el pago, lo preparará y actualizará su estado. Como la tienda en línea y el sistema de caja del local comparten el mismo inventario, cada venta —en el local o por internet— descuenta el stock en un solo lugar, evitando vender productos que ya no existen.
+ Cliente (celular/PC) ──► Tienda en línea ARX PARFUMS ──► Pedido
+                                    │
+                                    ▼
+                         Inventario compartido ◄── POS del local
+                                    │
+                                    ▼
+             Panel de administración (pedidos, stock, reportes)
+________________________________________
 
 
 8. Glosario de términos
