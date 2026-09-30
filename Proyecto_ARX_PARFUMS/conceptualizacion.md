@@ -1,8 +1,4 @@
-## 1. Presentación del proyecto
 
-**Nombre del sistema:** **ARX Store** — Sistema web de comercio electrónico para ARX Parfums
-
-**Integrantes del grupo:**
 
 | Nombre | Rol |
 |---|---|
@@ -17,6 +13,13 @@
 Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXPARFUMS.
 
 Integrantes del grupo:
+
+| Nombre | Rol |
+|---|---|
+| Alan Cabrera | Líder de proyecto / Analista (enlace con el cliente) |
+| Alba Lopez |  Diseñadora UX|
+| Marcelo Cano | Diseñador de base de datos |
+| Sebastian Prieto | Diseñador UI|
 
 Nombre	-    Rol
 
