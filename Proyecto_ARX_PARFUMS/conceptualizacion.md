@@ -147,17 +147,12 @@ ________________________________________
 |---|---|
 |- Baja disponibilidad del cliente para reuniones y validaciones.|Alto|Agendar reuniones cortas quincenales fijas; validar avances por WhatsApp con capturas y mockups; un integrante actúa como enlace único con el cliente.|
 |- Incompatibilidades al integrar el inventario con el POS existente (estructura de base de datos distinta).|	Alto|Analizar en la etapa de Análisis el modelo de datos actual del POS; definir una capa de acceso común al stock; hacer pruebas sobre una copia de la base, nunca sobre producción.|
-|- Crecimiento del alcance (el cliente pide nuevas funciones, ej. pago con tarjeta, cuotas en línea).|	Alto|Documentar el alcance en esta entrega y validarlo con el cliente; toda nueva solicitud se registra como mejora para una versión |futura.
-
-- Falta de tiempo del grupo por otras materias y exámenes.	Medio,	Planificación por iteraciones cortas con tareas asignadas por integrante; seguimiento semanal en el tablero del repositorio (GitHub Projects).
-
-- Curva de aprendizaje del framework Laravel.	Medio,	Capacitación temprana con la documentación oficial; prototipo pequeño al inicio; apoyo en el integrante con más experiencia en PHP.
-
-- Seguridad de datos de clientes y de pagos (robo de cuentas, comprobantes falsos).	Alto,	HTTPS obligatorio, contraseñas cifradas, protección CSRF, validación de archivos subidos y verificación manual del comprobante antes de despachar.
-
-- Catálogo incompleto (faltan fotos o descripciones de productos).	Medio,	Acordar con el cliente la carga progresiva del catálogo; plantilla estándar de ficha de producto; imágenes genéricas temporales.
-
-- Rotación o baja de un integrante del grupo.	Medio,	Documentación compartida en el repositorio; cada módulo conocido por al menos dos integrantes.
+|- Crecimiento del alcance (el cliente pide nuevas funciones, ej. pago con tarjeta, cuotas en línea).|	Alto|Documentar el alcance en esta entrega y validarlo con el cliente; toda nueva solicitud se registra como mejora para una versión futura.|
+|- Falta de tiempo del grupo por otras materias y exámenes.|	Medio|	Planificación por iteraciones cortas con tareas asignadas por integrante; seguimiento semanal en el tablero del repositorio (GitHub Projects).|
+|- Curva de aprendizaje del framework Laravel.|	Medio|	Capacitación temprana con la documentación oficial; prototipo pequeño al inicio; apoyo en el integrante con más experiencia en PHP.|
+|- Seguridad de datos de clientes y de pagos (robo de cuentas, comprobantes falsos).|	Alto|	HTTPS obligatorio, contraseñas cifradas, protección CSRF, validación de archivos subidos y verificación manual del comprobante antes de despachar.|
+|- Catálogo incompleto (faltan fotos o descripciones de productos).|	Medio|	Acordar con el cliente la carga progresiva del catálogo; plantilla estándar de ficha de producto; imágenes genéricas temporales.|
+|- Rotación o baja de un integrante del grupo.|	Medio|	Documentación compartida en el repositorio; cada módulo conocido por al menos dos integrantes.|
 
 ________________________________________
 
