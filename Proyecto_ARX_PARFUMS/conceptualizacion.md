@@ -163,9 +163,14 @@ ________________________________________
 
 10. Selección tecnológica preliminar
 
-Componente	Elección	Justificación breve
-Lenguaje de programación	PHP 8.2	Es el lenguaje del POS actual de ARX Parfums, lo que facilita la integración y la reutilización de conocimiento; el grupo ya lo domina; está disponible en casi cualquier hosting a bajo costo.
-Framework	Laravel 11 (backend, con vistas Blade) + Bootstrap 5 (frontend)	Laravel aporta arquitectura MVC, autenticación, protección CSRF, ORM (Eloquent), migraciones y envío de correos ya resueltos, lo que acelera el desarrollo y mejora la seguridad frente a PHP puro. Bootstrap permite un diseño responsive sin esfuerzo adicional.
-Base de datos	MySQL 8	Es el motor que ya usa el POS, lo que permite compartir el inventario en la misma base; es relacional (adecuado para pedidos, stock y clientes), gratuito y ampliamente soportado.
-Control de versiones y documentación	Git + GitHub / GitHub Pages	Requerido por la cátedra; permite registrar la participación de cada integrante y publicar la documentación.
-Herramientas de modelado	draw.io / PlantUML	Gratuitas, soportan notación UML y exportan imágenes para publicar en el sitio.
+Componente - Elección - Justificación breve
+
+- Lenguaje de programación:	PHP 8.2,	Es el lenguaje del POS actual de ARX Parfums, lo que facilita la integración y la reutilización de conocimiento; el grupo ya lo domina; está disponible en casi cualquier hosting a bajo costo.
+  
+- Framework:	Laravel 11 (backend, con vistas Blade) + Bootstrap 5 (frontend),	Laravel aporta arquitectura MVC, autenticación, protección CSRF, ORM (Eloquent), migraciones y envío de correos ya resueltos, lo que acelera el desarrollo y mejora la seguridad frente a PHP puro. Bootstrap permite un diseño responsive sin esfuerzo adicional.
+  
+- Base de datos:	MySQL 8,	Es el motor que ya usa el POS, lo que permite compartir el inventario en la misma base; es relacional (adecuado para pedidos, stock y clientes), gratuito y ampliamente soportado.
+  
+- Control de versiones y documentación: Git + GitHub / GitHub Pages,	Requerido por la cátedra; permite registrar la participación de cada integrante y publicar la documentación.
+  
+- Herramientas de modelado:	draw.io / PlantUML,	Gratuitas, soportan notación UML y exportan imágenes para publicar en el sitio.
