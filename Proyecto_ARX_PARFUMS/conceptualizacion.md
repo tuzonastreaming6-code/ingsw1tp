@@ -1,3 +1,18 @@
+## 1. Presentación del proyecto
+
+**Nombre del sistema:** **ARX Store** — Sistema web de comercio electrónico para ARX Parfums
+
+**Integrantes del grupo:**
+
+| Nombre | Rol |
+|---|---|
+| Alan [Apellido] | Líder de proyecto / Analista funcional (enlace con el cliente) |
+| [Nombre 2] | Analista de requisitos / Diseñador UX-UI |
+| [Nombre 3] | Arquitecto de software / Diseñador de base de datos |
+
+
+
+
 1. Presentación del proyecto
 Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXPARFUMS.
 
@@ -5,7 +20,7 @@ Integrantes del grupo:
 
 Nombre	-    Rol
 
-|Alan Cabrera	|     |Líder de proyecto / Analista funcional (enlace con el cliente)|
+Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente)
 
 Alba Lopez	     Diseñador UX.
 
