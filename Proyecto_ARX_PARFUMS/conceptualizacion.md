@@ -58,16 +58,28 @@ Objetivos específicos:
 6.	Generar reportes básicos de ventas en línea (ventas por período, productos más vendidos, pedidos por estado).
 ________________________________________
 4. Alcance del proyecto
+   
 Incluye (dentro del alcance) — Versión 1:
+
 •	Catálogo público: listado de productos, búsqueda, filtros, ficha de producto con fotos, notas olfativas y presentaciones (ml).
+
 •	Carrito de compras: agregar, quitar, modificar cantidades y ver el total.
+
 •	Checkout / pedido: datos de entrega, elección de método de pago (transferencia con carga de comprobante, o contra entrega) y método de entrega (retiro en local o envío).
+
 •	Panel de administración: gestión de productos, categorías/marcas, precios, imágenes y stock; gestión de pedidos y cambio de estados; verificación de comprobantes.
+
 •	Gestión de usuarios internos: roles Administrador y Vendedor con permisos diferenciados.
-•	Notificaciones por correo electrónico al cliente (pedido recibido, pago confirmado, pedido enviado) y botón de contacto por WhatsApp.
+
 •	Integración de inventario con el POS existente: ambos sistemas trabajan sobre el mismo stock.
+
 •	Reportes básicos de ventas en línea.
+
 •	Diseño adaptable (responsive) para uso desde celulares.
+
 •	Facturación electrónica (SIFEN) ante la SET: la facturación sigue gestionándose por el circuito actual del negocio.
-•	Aplicación móvil nativa (Android/iOS): solo se desarrolla la versión web responsive.
+
+•	Aplicación móvil nativa (Android/iOS): solo se desarrolla la versión web responsive
+
 •	Ventas a cuotas en línea: el crédito y las cuotas siguen gestionándose exclusivamente desde el POS.
+
