@@ -92,30 +92,50 @@ Incluye (dentro del alcance) — Versión 1:
 
 8. Glosario de términos
 
-Término	Definición
+Término - Definición
 
-Producto	Perfume u otro artículo que ARX Parfums ofrece a la venta. Tiene marca, nombre, género, familia olfativa, presentaciones, precio e imágenes.
-Presentación	Variante de un producto según su contenido en mililitros (ej. 50 ml, 100 ml). Cada presentación tiene su propio precio y stock.
-Marca	Casa fabricante del perfume (ej. Lattafa, Dior, Carolina Herrera).
-Familia olfativa	Clasificación del aroma de un perfume (amaderado, floral, oriental, cítrico, etc.). Se usa como filtro del catálogo.
-Notas olfativas	Ingredientes aromáticos que componen el perfume, divididos en notas de salida, de corazón y de fondo.
-Perfume original / de diseñador	Perfume de marcas internacionales reconocidas, comercializado en su empaque de fábrica.
+- Producto:	Perfume u otro artículo que ARX Parfums ofrece a la venta. Tiene marca, nombre, género, familia olfativa, presentaciones, precio e imágenes.
+  
+- Presentación:	Variante de un producto según su contenido en mililitros (ej. 50 ml, 100 ml). Cada presentación tiene su propio precio y stock.
+  
+- Marca:	Casa fabricante del perfume (ej. Lattafa, Dior, Carolina Herrera).
+  
+- Familia olfativa:	Clasificación del aroma de un perfume (amaderado, floral, oriental, cítrico, etc.). Se usa como filtro del catálogo.
+  
+- Notas olfativas:	Ingredientes aromáticos que componen el perfume, divididos en notas de salida, de corazón y de fondo.
+  
+- Perfume original / de diseñador:	Perfume de marcas internacionales reconocidas, comercializado en su empaque de fábrica.
 Perfume árabe	Perfume de casas perfumistas de Medio Oriente, de alta concentración y precio accesible; segmento importante del negocio.
-Decant	Porción de un perfume original trasvasada a un frasco pequeño (ej. 5 o 10 ml) para venderla fraccionada.
-Catálogo	Conjunto de productos activos visibles para los clientes en la tienda en línea.
-Stock	Cantidad disponible de una presentación de producto. Es compartido entre la tienda en línea y el POS.
-Stock reservado	Unidades separadas para un pedido confirmado cuyo pago aún no fue verificado.
-Carrito	Lista temporal de productos que el cliente selecciona antes de confirmar el pedido.
-Pedido	Solicitud de compra confirmada por un cliente en la tienda en línea, con productos, montos, método de pago, método de entrega y estado.
-Estado del pedido	Etapa en la que se encuentra un pedido: Pendiente de pago, Pagado, En preparación, Enviado, Entregado o Cancelado.
-Checkout	Proceso de finalización de la compra: datos del cliente, entrega, pago y confirmación.
-Comprobante de pago	Imagen o PDF de la transferencia bancaria que el cliente adjunta al pedido para su verificación.
-Pago contra entrega	Modalidad en la que el cliente abona el pedido en efectivo al recibirlo.
-Cliente registrado	Comprador con cuenta en la tienda, que puede ver su historial de pedidos y guardar direcciones.
-Revendedor / mayorista	Cliente que compra en cantidad para revender, generalmente con precios diferenciados.
-POS (Punto de Venta)	Sistema interno existente de ARX Parfums con el que se registran las ventas en el local, la caja y las ventas a cuotas.
-Panel de administración	Sección privada del sistema donde el personal gestiona productos, stock, pedidos, usuarios y reportes.
-Guaraní (PYG / Gs.)	Moneda en la que se expresan todos los precios del sistema.
+
+- Decant:	Porción de un perfume original trasvasada a un frasco pequeño (ej. 5 o 10 ml) para venderla fraccionada.
+  
+- Catálogo:	Conjunto de productos activos visibles para los clientes en la tienda en línea.
+
+- Stock:	Cantidad disponible de una presentación de producto. Es compartido entre la tienda en línea y el POS.
+  
+- Stock reservado:	Unidades separadas para un pedido confirmado cuyo pago aún no fue verificado.
+  
+- Carrito:	Lista temporal de productos que el cliente selecciona antes de confirmar el pedido.
+  
+- Pedido:	Solicitud de compra confirmada por un cliente en la tienda en línea, con productos, montos, método de pago, método de entrega y estado.
+  
+- Estado del pedido:	Etapa en la que se encuentra un pedido: Pendiente de pago, Pagado, En preparación, Enviado, Entregado o Cancelado.
+  
+- Checkout:	Proceso de finalización de la compra: datos del cliente, entrega, pago y confirmación.
+  
+- Comprobante de pago:	Imagen o PDF de la transferencia bancaria que el cliente adjunta al pedido para su verificación.
+  
+- Pago contra entrega:	Modalidad en la que el cliente abona el pedido en efectivo al recibirlo.
+  
+- Cliente registrado:	Comprador con cuenta en la tienda, que puede ver su historial de pedidos y guardar direcciones.
+  
+- Revendedor / mayorista:	Cliente que compra en cantidad para revender, generalmente con precios diferenciados.
+  
+- POS (Punto de Venta):	Sistema interno existente de ARX Parfums con el que se registran las ventas en el local, la caja y las ventas a cuotas.
+  
+- Panel de administración:	Sección privada del sistema donde el personal gestiona productos, stock, pedidos, usuarios y reportes.
+  
+- Guaraní (PYG / Gs.):	Moneda en la que se expresan todos los precios del sistema.
 
 ________________________________________
 
