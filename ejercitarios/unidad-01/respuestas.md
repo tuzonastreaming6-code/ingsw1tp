@@ -104,23 +104,17 @@ Esto se debe a que la ética profesional exige proteger la información de los u
 
 ## Tema 5 · El ciclo del software
 
-**11. Ordena y nombra las cinco fases genéricas del ciclo de vida del software vistas en clase.**
+11. Ordena y nombra las cinco fases genéricas del ciclo de vida del software vistas en clase
 
 Las cinco fases genéricas del ciclo de vida del software son:
 
-11.1- Comunicación: Se identifican las necesidades del cliente y se recopilan los requisitos del sistema.
-11.2- Planificación: Se organizan las tareas, recursos, tiempos y costos del proyecto
-11.3- Modelado: Se diseña la estructura del software y se definen sus componentes
-11.4- Construcción: Se desarrolla el código y se realizan pruebas para verificar su funcionamiento.
-115- Despliegue: Se entrega el software al usuario, se implementa y se realiza mantenimiento y mejoras
+11.1- Comunicación: Se identifican las necesidades del cliente y se recopilan los requisitos del sistema. 11.2- Planificación: Se organizan las tareas, recursos, tiempos y costos del proyecto 11.3- Modelado: Se diseña la estructura del software y se definen sus componentes 11.4- Construcción: Se desarrolla el código y se realizan pruebas para verificar su funcionamiento. 115- Despliegue: Se entrega el software al usuario, se implementa y se realiza mantenimiento y mejoras
 
-
-**12. ¿Por qué se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software? Da un ejemplo hipotético.**
+12. ¿Por qué se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software? Da un ejemplo hipotético.
 
 Se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software porque después de su implementación se deben corregir errores, adaptar el sistema a nuevos requisitos, actualizar tecnologías y mejorar su funcionamiento con el paso del tiempo
 
-Ejemplo.
-Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar pagos en línea, mejorar la seguridad y adaptarse a nuevas leyes. Los ingenieros deben modificar y probar gran parte del sistema existente, lo que puede requerir más tiempo y recursos que el desarrollo inicial
+Ejemplo. Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar pagos en línea, mejorar la seguridad y adaptarse a nuevas leyes. Los ingenieros deben modificar y probar gran parte del sistema existente, lo que puede requerir más tiempo y recursos que el desarrollo inicial
 
 ## Tema 6 · Relación con otras áreas de la ciencia de la computación
 
