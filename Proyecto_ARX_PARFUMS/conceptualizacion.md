@@ -1,6 +1,5 @@
----
-title: "ARX PARFUMS"
----
+
+title: "ARX PARFUMS"  SISTEMA WEB MAS ECOMMERCE
 
 1. Presentación del proyecto
 Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXPARFUMS.
