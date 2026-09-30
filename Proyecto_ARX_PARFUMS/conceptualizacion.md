@@ -3,10 +3,10 @@ Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXP
 
 Integrantes del grupo:
 Nombre	    Rol
-Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente)
-Alba Lopez	     Diseñador UX
-Marcelo Cano	     Diseñador de base de datos
-Sebastian Prieto   Diseñador UI
+Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente).
+Alba Lopez	     Diseñador UX.
+Marcelo Cano	     Diseñador de base de datos.
+Sebastian Prieto   Diseñador UI.
 Usuario / cliente real: ARX Parfums, emprendimiento paraguayo dedicado a la comercialización de perfumes (originales, árabes y de diseñador) al por menor y al por mayor. Actualmente cuenta con un sistema de punto de venta (POS) interno para registrar ventas en local, controlar caja y administrar ventas a cuotas, pero no dispone de un canal de venta en línea propio.
 ________________________________________
 2. Definición del problema
