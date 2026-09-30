@@ -37,15 +37,24 @@ Situación actual. ARX Parfums vende sus productos de dos formas:
 •	Alcance limitado: el negocio depende del horario y de la disponibilidad del vendedor para atender, lo que limita el crecimiento de las ventas en el interior del país.
 ________________________________________
 3. Propósito y objetivos
+
 Objetivo general:
+
 Desarrollar un sistema web de comercio electrónico para ARX Parfums que permita a sus clientes consultar el catálogo y realizar pedidos en línea las 24 horas, integrado con el inventario del negocio, para reducir la atención manual y centralizar la gestión de pedidos.
+
 Objetivos específicos:
 
+
 1.	Publicar un catálogo en línea con el 100 % de los productos activos, con precio, fotos, descripción y disponibilidad, filtrable por marca, género, familia olfativa y rango de precio.
+   
 2.	Permitir que el cliente arme un carrito y confirme un pedido en no más de 5 pasos, eligiendo método de pago (transferencia bancaria o pago contra entrega) y método de entrega (retiro o envío).
+   
 3.	Descontar y reservar el stock automáticamente al confirmar un pedido, compartiendo la misma base de productos que usa el POS, para eliminar la venta de productos sin existencia.
+   
 4.	Brindar al administrador un panel de gestión de pedidos con estados (pendiente de pago, pagado, en preparación, enviado, entregado, cancelado) y notificación al cliente en cada cambio de estado.
+   
 5.	Permitir al cliente consultar su historial de pedidos y el estado actual de cada uno sin necesidad de escribir por WhatsApp.
+   
 6.	Generar reportes básicos de ventas en línea (ventas por período, productos más vendidos, pedidos por estado).
 ________________________________________
 4. Alcance del proyecto
