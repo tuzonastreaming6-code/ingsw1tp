@@ -5,7 +5,7 @@ Integrantes del grupo:
 
 Nombre	-    Rol
 
-Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente).
+|Alan Cabrera	|     |Líder de proyecto / Analista funcional (enlace con el cliente)|
 
 Alba Lopez	     Diseñador UX.
 
