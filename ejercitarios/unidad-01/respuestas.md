@@ -1,6 +1,6 @@
 # Respuestas — Ejercitario Unidad 01
 
-> Completen cada pregunta debajo de su enunciado. Pueden borrar este bloque de instrucciones una vez que empiecen.
+> Completen cada pregunta debajo de su enunciado. Pueden borrar este bloque de instrucciones una vez que empiecen
 
 ---
 
@@ -31,19 +31,19 @@ La diferencia principal es que programar consiste en escribir código para crear
 4.1- Hardware: componentes físicos de la computadora, como procesador, memoria, disco duro, teclado y pantalla.
 4.2- Datos: información que el sistema procesa, almacena y utiliza.
 4.3- Usuarios: personas que interactúan con el sistema.
- 4.4-Procedimientos: reglas, instrucciones y procesos que indican cómo utilizar el sistema.
-4.5- Redes de comunicación: medios que permiten conectar equipos y compartir información.
+ 4.4-Procedimientos: reglas, instrucciones y procesos que indican cómo utilizar el sistema
+4.5- Redes de comunicación: medios que permiten conectar equipos y compartir información
 
 **5. Describe brevemente la diferencia entre una visión sistémica y una visión aislada del software en el diseño de sistemas.**
 
-La visión sistémica considera al software como parte de un sistema completo, tomando en cuenta la interacción con el hardware, usuarios, datos, procesos y el entorno.
+La visión sistémica considera al software como parte de un sistema completo, tomando en cuenta la interacción con el hardware, usuarios, datos, procesos y el entorno
 
-La visión aislada analiza únicamente el software sin considerar su relación con otros elementos del sistema, lo que puede provocar soluciones menos eficientes o con problemas de integración.
+La visión aislada analiza únicamente el software sin considerar su relación con otros elementos del sistema, lo que puede provocar soluciones menos eficientes o con problemas de integración
 
 **6. Elige una herramienta de inteligencia artificial aplicada al desarrollo de software (por ejemplo, un asistente de código o de testing) e indica:**
-- Qué tarea del ingeniero de software apoya o transforma.
-- Un beneficio concreto que ofrece.
-- Un riesgo o desafío que introduce su uso.
+- Qué tarea del ingeniero de software apoya o transforma
+- Un beneficio concreto que ofrece
+- Un riesgo o desafío que introduce su uso
 - 
 Herramienta de IA elegida: GitHub Copilot (asistente de código).
 
@@ -82,7 +82,7 @@ A partir de esta situación surgió la necesidad de aplicar métodos, procesos y
 **8. Menciona tres competencias que debe tener un ingeniero de software, además del conocimiento técnico.**
 Tres competencias que debe tener un ingeniero de software, además del conocimiento técnico, son:
 
-Comunicación efectiva: capacidad para explicar ideas y trabajar con clientes y equipos de desarrollo.
+Comunicación efectiva: capacidad para explicar ideas y trabajar con clientes y equipos de desarrollo
 Resolución de problemas: habilidad para analizar situaciones y encontrar soluciones eficientes.
 Trabajo en equipo y colaboración: capacidad para coordinarse con otros profesionales en proyectos de software.
 
@@ -112,7 +112,7 @@ Las cinco fases genéricas del ciclo de vida del software son:
 11.2- Planificación: Se organizan las tareas, recursos, tiempos y costos del proyecto.
 11.3- Modelado: Se diseña la estructura del software y se definen sus componentes.
 11.4- Construcción: Se desarrolla el código y se realizan pruebas para verificar su funcionamiento.
-115- Despliegue: Se entrega el software al usuario, se implementa y se realiza mantenimiento y mejoras.
+115- Despliegue: Se entrega el software al usuario, se implementa y se realiza mantenimiento y mejoras
 
 
 **12. ¿Por qué se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software? Da un ejemplo hipotético.**
@@ -139,12 +139,12 @@ Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar p
 
 **13. Elige dos de las siguientes disciplinas — Administración, Psicología, Economía, Derecho, Comunicación — y explica con un ejemplo concreto cómo se relacionan con el trabajo diario de un ingeniero de software.**
 
-Administración.
+Administración
 La administración se relaciona con la ingeniería de software porque ayuda a organizar proyectos, gestionar recursos, tiempos y equipos de trabajo.
 Ejemplo,  Un ingeniero de software utiliza técnicas de administración para planificar las tareas de un proyecto y cumplir con las fechas de entrega.
 
  Psicología.
-La psicología aporta conocimientos sobre el comportamiento y necesidades de los usuarios, ayudando a crear sistemas más fáciles de usar.
+La psicología aporta conocimientos sobre el comportamiento y necesidades de los usuarios, ayudando a crear sistemas más fáciles de usar
 Ejemplo,  Un ingeniero de software aplica principios de experiencia de usuario (UX) para diseñar una aplicación que sea intuitiva y cómoda para las personas.
 
 
@@ -152,5 +152,5 @@ Ejemplo,  Un ingeniero de software aplica principios de experiencia de usuario (
 
 La idea que me resultó más relevante es que la ingeniería de software no se limita solamente a programar, sino que implica planificar, diseñar, probar y mantener sistemas de manera organizada.
 
-Esto es importante porque los sistemas actuales son cada vez más complejos y necesitan ser seguros, eficientes y adaptarse a las necesidades de los usuarios. Además, la incorporación de la inteligencia artificial demuestra que el ingeniero de software debe combinar conocimientos técnicos con pensamiento crítico y responsabilidad profesional.
+Esto es importante porque los sistemas actuales son cada vez más complejos y necesitan ser seguros, eficientes y adaptarse a las necesidades de los usuarios. Además, la incorporación de la inteligencia artificial demuestra que el ingeniero de software debe combinar conocimientos técnicos con pensamiento crítico y responsabilidad profesional
 
