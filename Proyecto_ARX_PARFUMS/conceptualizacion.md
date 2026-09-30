@@ -83,3 +83,61 @@ Incluye (dentro del alcance) — Versión 1:
 
 •	Ventas a cuotas en línea: el crédito y las cuotas siguen gestionándose exclusivamente desde el POS.
 
+.
+.
+.
+
+
+
+
+8. Glosario de términos
+
+Término	Definición
+
+Producto	Perfume u otro artículo que ARX Parfums ofrece a la venta. Tiene marca, nombre, género, familia olfativa, presentaciones, precio e imágenes.
+Presentación	Variante de un producto según su contenido en mililitros (ej. 50 ml, 100 ml). Cada presentación tiene su propio precio y stock.
+Marca	Casa fabricante del perfume (ej. Lattafa, Dior, Carolina Herrera).
+Familia olfativa	Clasificación del aroma de un perfume (amaderado, floral, oriental, cítrico, etc.). Se usa como filtro del catálogo.
+Notas olfativas	Ingredientes aromáticos que componen el perfume, divididos en notas de salida, de corazón y de fondo.
+Perfume original / de diseñador	Perfume de marcas internacionales reconocidas, comercializado en su empaque de fábrica.
+Perfume árabe	Perfume de casas perfumistas de Medio Oriente, de alta concentración y precio accesible; segmento importante del negocio.
+Decant	Porción de un perfume original trasvasada a un frasco pequeño (ej. 5 o 10 ml) para venderla fraccionada.
+Catálogo	Conjunto de productos activos visibles para los clientes en la tienda en línea.
+Stock	Cantidad disponible de una presentación de producto. Es compartido entre la tienda en línea y el POS.
+Stock reservado	Unidades separadas para un pedido confirmado cuyo pago aún no fue verificado.
+Carrito	Lista temporal de productos que el cliente selecciona antes de confirmar el pedido.
+Pedido	Solicitud de compra confirmada por un cliente en la tienda en línea, con productos, montos, método de pago, método de entrega y estado.
+Estado del pedido	Etapa en la que se encuentra un pedido: Pendiente de pago, Pagado, En preparación, Enviado, Entregado o Cancelado.
+Checkout	Proceso de finalización de la compra: datos del cliente, entrega, pago y confirmación.
+Comprobante de pago	Imagen o PDF de la transferencia bancaria que el cliente adjunta al pedido para su verificación.
+Pago contra entrega	Modalidad en la que el cliente abona el pedido en efectivo al recibirlo.
+Cliente registrado	Comprador con cuenta en la tienda, que puede ver su historial de pedidos y guardar direcciones.
+Revendedor / mayorista	Cliente que compra en cantidad para revender, generalmente con precios diferenciados.
+POS (Punto de Venta)	Sistema interno existente de ARX Parfums con el que se registran las ventas en el local, la caja y las ventas a cuotas.
+Panel de administración	Sección privada del sistema donde el personal gestiona productos, stock, pedidos, usuarios y reportes.
+Guaraní (PYG / Gs.)	Moneda en la que se expresan todos los precios del sistema.
+
+________________________________________
+
+9. Riesgos iniciales
+
+Riesgo	Impacto	Estrategia de mitigación
+Baja disponibilidad del cliente para reuniones y validaciones.	Alto	Agendar reuniones cortas quincenales fijas; validar avances por WhatsApp con capturas y mockups; un integrante actúa como enlace único con el cliente.
+Incompatibilidades al integrar el inventario con el POS existente (estructura de base de datos distinta).	Alto	Analizar en la etapa de Análisis el modelo de datos actual del POS; definir una capa de acceso común al stock; hacer pruebas sobre una copia de la base, nunca sobre producción.
+Crecimiento del alcance (el cliente pide nuevas funciones, ej. pago con tarjeta, cuotas en línea).	Alto	Documentar el alcance en esta entrega y validarlo con el cliente; toda nueva solicitud se registra como mejora para una versión futura.
+Falta de tiempo del grupo por otras materias y exámenes.	Medio	Planificación por iteraciones cortas con tareas asignadas por integrante; seguimiento semanal en el tablero del repositorio (GitHub Projects).
+Curva de aprendizaje del framework Laravel.	Medio	Capacitación temprana con la documentación oficial; prototipo pequeño al inicio; apoyo en el integrante con más experiencia en PHP.
+Seguridad de datos de clientes y de pagos (robo de cuentas, comprobantes falsos).	Alto	HTTPS obligatorio, contraseñas cifradas, protección CSRF, validación de archivos subidos y verificación manual del comprobante antes de despachar.
+Catálogo incompleto (faltan fotos o descripciones de productos).	Medio	Acordar con el cliente la carga progresiva del catálogo; plantilla estándar de ficha de producto; imágenes genéricas temporales.
+Rotación o baja de un integrante del grupo.	Medio	Documentación compartida en el repositorio; cada módulo conocido por al menos dos integrantes.
+
+________________________________________
+
+10. Selección tecnológica preliminar
+
+Componente	Elección	Justificación breve
+Lenguaje de programación	PHP 8.2	Es el lenguaje del POS actual de ARX Parfums, lo que facilita la integración y la reutilización de conocimiento; el grupo ya lo domina; está disponible en casi cualquier hosting a bajo costo.
+Framework	Laravel 11 (backend, con vistas Blade) + Bootstrap 5 (frontend)	Laravel aporta arquitectura MVC, autenticación, protección CSRF, ORM (Eloquent), migraciones y envío de correos ya resueltos, lo que acelera el desarrollo y mejora la seguridad frente a PHP puro. Bootstrap permite un diseño responsive sin esfuerzo adicional.
+Base de datos	MySQL 8	Es el motor que ya usa el POS, lo que permite compartir el inventario en la misma base; es relacional (adecuado para pedidos, stock y clientes), gratuito y ampliamente soportado.
+Control de versiones y documentación	Git + GitHub / GitHub Pages	Requerido por la cátedra; permite registrar la participación de cada integrante y publicar la documentación.
+Herramientas de modelado	draw.io / PlantUML	Gratuitas, soportan notación UML y exportan imágenes para publicar en el sitio.
