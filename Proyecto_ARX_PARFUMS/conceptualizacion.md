@@ -1,14 +1,3 @@
-
-
-| Nombre | Rol |
-|---|---|
-| Alan [Apellido] | Líder de proyecto / Analista funcional (enlace con el cliente) |
-| [Nombre 2] | Analista de requisitos / Diseñador UX-UI |
-| [Nombre 3] | Arquitecto de software / Diseñador de base de datos |
-
-
-
-
 1. Presentación del proyecto
 Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXPARFUMS.
 
@@ -20,16 +9,6 @@ Integrantes del grupo:
 | Alba Lopez |  Diseñadora UX|
 | Marcelo Cano | Diseñador de base de datos |
 | Sebastian Prieto | Diseñador UI|
-
-Nombre	-    Rol
-
-Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente)
-
-Alba Lopez	     Diseñador UX.
-
-Marcelo Cano	     Diseñador de base de datos.
-
-Sebastian Prieto   Diseñador UI.
 
 Usuario / cliente real: 
 ARX Parfums, emprendimiento paraguayo dedicado a la comercialización de perfumes (originales, árabes y de diseñador) al por menor y al por mayor. Actualmente cuenta con un sistema de punto de venta (POS) interno para registrar ventas en local, controlar caja y administrar ventas a cuotas, pero no dispone de un canal de venta en línea propio.
