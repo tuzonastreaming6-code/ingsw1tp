@@ -91,7 +91,6 @@ Incluye (dentro del alcance) — Versión 1:
 
 |Término | Definición|
 |---|---|
-
 |Producto:|	Perfume u otro artículo que ARX Parfums ofrece a la venta. Tiene marca, nombre, género, familia olfativa, presentaciones, precio e imágenes.|
   
 | Presentación:|	Variante de un producto según su contenido en mililitros (ej. 50 ml, 100 ml). Cada presentación tiene su propio precio y stock.|
