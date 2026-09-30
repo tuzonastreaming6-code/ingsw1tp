@@ -3,7 +3,7 @@ Nombre del sistema: ARX STORE — Sistema web de comercio electrónico para ARXP
 
 Integrantes del grupo:
 
-Nombre	    Rol
+Nombre	-    Rol
 
 Alan Cabrera	     Líder de proyecto / Analista funcional (enlace con el cliente).
 
