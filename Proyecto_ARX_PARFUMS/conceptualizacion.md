@@ -23,6 +23,7 @@ Situación actual. ARX Parfums vende sus productos de dos formas:
 1.	Venta presencial, registrada en su sistema POS interno (caja, stock, ventas al contado y a cuotas).
 2.	Venta por redes sociales y WhatsApp: el cliente ve publicaciones en Instagram/Facebook, consulta precio y disponibilidad por mensaje, y el vendedor responde manualmente, coordina el pago (transferencia o efectivo) y la entrega.
 - Problemática concreta.
+  
 •	Atención 100 % manual: cada consulta ("¿cuánto sale?", "¿hay stock?", "¿qué tamaño tiene?") debe responderse una por una, lo que consume mucho tiempo y genera demoras; muchas consultas fuera de horario se pierden.
 •	Catálogo disperso y desactualizado: los productos están repartidos en publicaciones y estados; el cliente no puede ver el catálogo completo, filtrar por marca, familia olfativa o precio, ni saber si un producto sigue disponible.
 •	Stock desincronizado: las ventas por WhatsApp no siempre se cargan a tiempo en el POS, por lo que se ofrecen productos sin existencia o se venden dos veces.
