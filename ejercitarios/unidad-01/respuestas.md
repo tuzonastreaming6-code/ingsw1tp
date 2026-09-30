@@ -69,11 +69,11 @@ A partir de esta situación surgió la necesidad de aplicar métodos, procesos y
 | D. Métodos iterativos (1990s) | __4_ |
 | E. Metodologías ágiles (2001–hoy) | _2__ |
 
-1. Se acuña el término "ingeniería de software" en una conferencia de la OTAN ante fallas y sobrecostos de proyectos.
-2. Surge el Manifiesto Ágil; se popularizan Scrum, Kanban y XP.
-3. El software se escribía de forma individual, sin procesos formales.
-4. Ganan terreno la iteración, el prototipado y los modelos incrementales.
-5. Se establecen los primeros procesos formales y estructurados de desarrollo.
+1. Se acuña el término "ingeniería de software" en una conferencia de la OTAN ante fallas y sobrecostos de proyectos
+2. Surge el Manifiesto Ágil; se popularizan Scrum, Kanban y XP
+3. El software se escribía de forma individual, sin procesos formales
+4. Ganan terreno la iteración, el prototipado y los modelos incrementales
+5. Se establecen los primeros procesos formales y estructurados de desarrollo
 
 ---
 
@@ -109,18 +109,18 @@ Esto se debe a que la ética profesional exige proteger la información de los u
 Las cinco fases genéricas del ciclo de vida del software son:
 
 11.1- Comunicación: Se identifican las necesidades del cliente y se recopilan los requisitos del sistema.
-11.2- Planificación: Se organizan las tareas, recursos, tiempos y costos del proyecto.
-11.3- Modelado: Se diseña la estructura del software y se definen sus componentes.
+11.2- Planificación: Se organizan las tareas, recursos, tiempos y costos del proyecto
+11.3- Modelado: Se diseña la estructura del software y se definen sus componentes
 11.4- Construcción: Se desarrolla el código y se realizan pruebas para verificar su funcionamiento.
 115- Despliegue: Se entrega el software al usuario, se implementa y se realiza mantenimiento y mejoras
 
 
 **12. ¿Por qué se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software? Da un ejemplo hipotético.**
 
-Se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software porque después de su implementación se deben corregir errores, adaptar el sistema a nuevos requisitos, actualizar tecnologías y mejorar su funcionamiento con el paso del tiempo.
+Se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software porque después de su implementación se deben corregir errores, adaptar el sistema a nuevos requisitos, actualizar tecnologías y mejorar su funcionamiento con el paso del tiempo
 
 Ejemplo.
-Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar pagos en línea, mejorar la seguridad y adaptarse a nuevas leyes. Los ingenieros deben modificar y probar gran parte del sistema existente, lo que puede requerir más tiempo y recursos que el desarrollo inicial.
+Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar pagos en línea, mejorar la seguridad y adaptarse a nuevas leyes. Los ingenieros deben modificar y probar gran parte del sistema existente, lo que puede requerir más tiempo y recursos que el desarrollo inicial
 
 ## Tema 6 · Relación con otras áreas de la ciencia de la computación
 
@@ -137,18 +137,13 @@ Una empresa tiene un sistema de ventas antiguo. Con los años necesita agregar p
 
 ## Tema 7 · Relación con otras disciplinas
 
-**13. Elige dos de las siguientes disciplinas — Administración, Psicología, Economía, Derecho, Comunicación — y explica con un ejemplo concreto cómo se relacionan con el trabajo diario de un ingeniero de software.**
+13. Elige dos de las siguientes disciplinas — Administración, Psicología, Economía, Derecho, Comunicación — y explica con un ejemplo concreto cómo se relacionan con el trabajo diario de un ingeniero de software.
 
-Administración
-La administración se relaciona con la ingeniería de software porque ayuda a organizar proyectos, gestionar recursos, tiempos y equipos de trabajo.
-Ejemplo,  Un ingeniero de software utiliza técnicas de administración para planificar las tareas de un proyecto y cumplir con las fechas de entrega.
+Administración La administración se relaciona con la ingeniería de software porque ayuda a organizar proyectos, gestionar recursos, tiempos y equipos de trabajo. Ejemplo, Un ingeniero de software utiliza técnicas de administración para planificar las tareas de un proyecto y cumplir con las fechas de entrega.
 
- Psicología.
-La psicología aporta conocimientos sobre el comportamiento y necesidades de los usuarios, ayudando a crear sistemas más fáciles de usar
-Ejemplo,  Un ingeniero de software aplica principios de experiencia de usuario (UX) para diseñar una aplicación que sea intuitiva y cómoda para las personas.
+Psicología. La psicología aporta conocimientos sobre el comportamiento y necesidades de los usuarios, ayudando a crear sistemas más fáciles de usar Ejemplo, Un ingeniero de software aplica principios de experiencia de usuario (UX) para diseñar una aplicación que sea intuitiva y cómoda para las personas.
 
-
-**14. Reflexión final:** de todo lo visto en clase (definición, historia, rol del ingeniero, ciclo del software, relación con otras áreas y disciplinas, e impacto de la IA), ¿qué idea te resultó más relevante y por qué?
+14. Reflexión final: de todo lo visto en clase (definición, historia, rol del ingeniero, ciclo del software, relación con otras áreas y disciplinas, e impacto de la IA), ¿qué idea te resultó más relevante y por qué?
 
 La idea que me resultó más relevante es que la ingeniería de software no se limita solamente a programar, sino que implica planificar, diseñar, probar y mantener sistemas de manera organizada.
 
