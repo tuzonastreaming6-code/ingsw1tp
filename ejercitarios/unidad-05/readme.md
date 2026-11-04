@@ -284,10 +284,11 @@ Con esta distribución, cambiar de SQL Server a MySQL o de PDF a Excel solo impl
 
 _Respuesta:_
 
-- Una **revisión técnica del diseño** es una actividad **estática**: un grupo de personas (diseñadores, programadores, a veces el cliente) lee y analiza los modelos y documentos de diseño (diagramas, interfaces, base de datos) sin ejecutar nada. Busca errores, omisiones, inconsistencias con los requisitos y problemas de calidad (alto acoplamiento, falta de seguridad, etc.).
-- Una **prueba del software** es una actividad **dinámica**: se ejecuta el programa ya construido con datos de entrada definidos y se compara el resultado obtenido con el esperado, para encontrar fallas.
+La revisión técnica del diseño consiste en analizar los planos y la estructura del sistema antes de programarlo, para detectar errores o problemas de organización. En cambio, una prueba del software consiste en ejecutar el programa para comprobar si funciona correctamente y cumple con los requisitos.
 
-**Conviene revisar el diseño antes de programar** porque un error encontrado en esta etapa se corrige cambiando un diagrama o un documento. El mismo error descubierto en las pruebas o en producción obliga a reescribir código, volver a probar y a veces cambiar la base de datos con datos reales, y su costo puede ser muchas veces mayor. Además, hay problemas que las pruebas difícilmente detectan, como un requisito que nadie diseñó o una arquitectura que no va a escalar.
+Conviene revisar el diseño antes de programar porque permite detectar errores desde el principio, evitar cambios costosos y ahorrar tiempo durante el desarrollo.
+
+Ejemplo: en un sistema de biblioteca, revisar el diseño permite detectar que el módulo de préstamos no contempla las devoluciones. Si se descubre antes de programar, corregirlo será más sencillo y económico que modificar todo el sistema después.
 
 **20. Completa la matriz de trazabilidad para un sistema de biblioteca.**
 
