@@ -1,4 +1,4 @@
-# Sistema web con Ecommerce — Trabajo Práctico Integrador
+# Sistema web — Trabajo Práctico Integrador
 
 > Plantilla base para el repositorio del grupo. Reemplacen todo el texto entre `[corchetes]` por la información real de su proyecto.
 
