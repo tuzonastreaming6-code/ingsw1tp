@@ -124,7 +124,13 @@ En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizad
 
 _Respuesta:_
 
+La alta cohesión significa que un módulo se encarga de tareas relacionadas entre sí, mientras que el bajo acoplamiento significa que los módulos dependen poco unos de otros.
 
+Suelen ir de la mano porque, cuando cada módulo tiene una función clara y específica, necesita menos conexiones y dependencias con otros módulos. Esto facilita el mantenimiento y los cambios en el sistema.
+
+Ejemplo: en un sistema de biblioteca, un módulo se encarga de gestionar los préstamos y otro de registrar los libros. Si cada uno cumple su función sin depender demasiado del otro, existe alta cohesión y bajo acoplamiento.
+
+Así, si se modifica el registro de libros, no será necesario cambiar todo el módulo de préstamos.
 
 ---
 
