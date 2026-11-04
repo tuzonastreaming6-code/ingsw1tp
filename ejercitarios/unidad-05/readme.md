@@ -8,10 +8,14 @@
 
 _Respuesta:_
 
-El **diseño conceptual** define *qué* va a ser el sistema y cómo se organiza a grandes rasgos, en el lenguaje del cliente: qué partes tiene, qué información maneja y cómo se va a usar. No entra en tecnologías ni en código, y sirve para validar la solución con el usuario.
+El diseño conceptual define qué hará el sistema y cómo funcionará en general, sin entrar en detalles técnicos. En cambio, el diseño técnico o detallado explica cómo se va a construir el sistema, especificando las tecnologías, la base de datos y los procedimientos que se utilizarán.
 
-El **diseño técnico (detallado)** define *cómo* se va a construir: arquitectura concreta, clases con sus atributos y métodos, tablas de la base de datos, algoritmos, interfaces entre módulos y tecnologías. Está dirigido a los programadores y es lo bastante preciso para implementarlo.
+Ejemplo para un sistema de gestión de una biblioteca:
 
+* Diseño conceptual: decidir que el sistema permitirá registrar libros, gestionar préstamos y devoluciones, y consultar la disponibilidad de los libros.
+* Diseño técnico: decidir que se utilizará una base de datos MySQL para guardar los libros, los usuarios y los préstamos, relacionando sus datos mediante identificadores.
+
+En resumen, el diseño conceptual define qué se necesita y el diseño técnico establece cómo se implementará.
 | Tipo | Ejemplo de decisión en un sistema de biblioteca |
 |---|---|
 | Conceptual | "El sistema tendrá tres partes: Catálogo de libros, Socios y Préstamos. Un socio podrá tener como máximo 3 libros prestados a la vez y podrá reservar un libro que está prestado." |
