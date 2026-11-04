@@ -98,14 +98,14 @@ En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizad
 
 ---
 
-## Tema 4 · Cohesión y acoplamiento
+## Tema 4 · Cohesión y acoplamiento.
 
 **7. Indica el tipo de cohesión de cada módulo y justifica brevemente.**
 
 | Módulo | Tipo de cohesión y justificación |
 |---|---|
 | a) "Utilidades": FormatearFecha, EnviarCorreo y CalcularIVA. | **Coincidental**: las tres funciones no tienen ninguna relación entre sí; están juntas solo porque "no tenían otro lugar". |
-| b) "IniciarSistema": abre la conexión a la base, carga la configuración y borra archivos temporales. | **Temporal**: las tareas son distintas y se agrupan solo porque se ejecutan en el mismo momento (al iniciar). |
+| b) "IniciarSistema": abre la conexión a la base, carga la configuración y borra archivos temporales. | **Temporal**: las tareas son distintas y se agrupan solo porque se ejecutan en el mismo momento (al iniciar).|
 | c) "CalcularPromedioAlumno": obtiene las notas de un alumno y devuelve su promedio. | **Funcional**: todo el módulo contribuye a una única tarea bien definida: calcular el promedio. |
 | d) "ProcesarOperacion": recibe un código y, según su valor, imprime, guarda o elimina un registro. | **Lógica**: agrupa operaciones de una misma categoría ("operar sobre un registro") y elige cuál ejecutar con un parámetro de control. |
 | e) Lee un registro, lo valida y, con el registro ya validado, calcula su total. | **Secuencial**: la salida de cada paso es la entrada del siguiente (leer → validar → calcular). |
