@@ -55,7 +55,7 @@ Objetivos específicos:
    
 5.	Permitir al cliente consultar su historial de pedidos y el estado actual de cada uno sin necesidad de escribir por WhatsApp.
    
-6.	Generar reportes básicos de ventas en línea (ventas por período, productos más vendidos, pedidos por estado).
+6.	Generar reportes basicos de ventas en línea (ventas por período, productos más vendidos, pedidos por estado).
 ________________________________________
 4. Alcance del proyecto
    
