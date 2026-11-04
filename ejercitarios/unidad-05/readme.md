@@ -83,7 +83,11 @@ _Respuesta:_
 
 _Respuesta:_
 
-Al dividir un sistema en módulos se manejan dos costos que van en sentidos opuestos: el **costo de desarrollar cada módulo** y el **costo de integrarlos**.
+No conviene dividir un sistema en muy pocos módulos porque se vuelven grandes y difíciles de entender, mantener y modificar. Esto aumenta el costo de mantenimiento y de corrección de errores.
+
+Por otro lado, dividirlo en demasiados módulos genera muchas conexiones y dependencias entre ellos, lo que aumenta el costo de integración, comunicación y coordinación.
+
+En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizados, que sean fáciles de mantener y que trabajen correctamente entre sí.
 
 - **Con muy pocos módulos**, cada uno es grande y hace muchas cosas. Aumenta el costo de desarrollo por módulo: el código es difícil de entender, de probar y de modificar, un cambio afecta a muchas partes y no se puede repartir bien el trabajo entre varias personas.
 - **Con demasiados módulos**, cada uno es pequeño y simple, pero aumenta el costo de integración: hay muchas interfaces que definir, documentar y mantener, más llamadas entre módulos (más acoplamiento), más puntos de falla y es más difícil seguir el flujo completo de una operación.
