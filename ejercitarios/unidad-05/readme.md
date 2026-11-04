@@ -223,13 +223,14 @@ La clave es diseñar el monolito con **módulos bien separados** (alta cohesión
 
 _Respuesta:_
 
-Según Pressman, un buen diseño debe:
+Las tres directrices de calidad de Pressman para un buen diseño son:
 
-1. **Implementar todos los requisitos explícitos** del modelo de análisis y tener en cuenta los requisitos implícitos que espera el cliente.
-2. **Ser una guía legible y comprensible** para quienes van a programar, probar y luego dar soporte al software.
-3. **Dar una imagen completa del software**, abordando los dominios de datos, funcional y de comportamiento desde la perspectiva de la implementación.
+* Debe implementar todos los requisitos explícitos: cumplir con lo que el cliente pidió.
+* Debe ser legible y comprensible: facilitar que otros desarrolladores puedan entender el diseño.
+* Debe proporcionar una visión completa del software: incluir los datos, las funciones y el comportamiento del sistema.
 
-**Ejemplo de la directriz 1:** en nuestro Trabajo Práctico (ARX Store), un requisito explícito es "reservar el stock al confirmar un pedido". El diseño tiene que incluir dónde se guarda el stock reservado y qué componente lo actualiza. Pero el cliente también espera algo que no dijo: que dos personas no puedan comprar al mismo tiempo la última unidad de un perfume. Si el diseño no prevé una transacción o un bloqueo al reservar, se cumple el requisito explícito y no el implícito, y en la práctica el sistema vendería dos veces el mismo producto.
+Ejemplo de la segunda directriz: en un sistema de biblioteca, organizar el código en módulos como gestión de libros, usuarios y préstamos permite que los desarrolladores comprendan fácilmente cada función y realicen modificaciones sin afectar todo el sistema.
+
 
 **16. Ejercicio de relación**
 
