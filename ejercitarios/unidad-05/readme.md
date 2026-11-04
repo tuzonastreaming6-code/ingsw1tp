@@ -13,7 +13,7 @@ El diseño conceptual define qué hará el sistema y cómo funcionará en genera
 Ejemplo para un sistema de gestión de una biblioteca:
 
 * Diseño conceptual: decidir que el sistema permitirá registrar libros, gestionar préstamos y devoluciones, y consultar la disponibilidad de los libros.
-* Diseño técnico: decidir que se utilizará una base de datos MySQL para guardar los libros, los usuarios y los préstamos, relacionando sus datos mediante identificadores.
+* Diseño técnico: decidir que se utilizará una base de datos MySQL para guardar los libros, los usuarios y los préstamos, relacionando sus datos mediante identificadores .
 
 En resumen, el diseño conceptual define qué se necesita y el diseño técnico establece cómo se implementará.
 | Tipo | Ejemplo de decisión en un sistema de biblioteca |
