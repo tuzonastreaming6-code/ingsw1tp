@@ -114,11 +114,7 @@ En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizad
 
 | Situación | Tipo de acoplamiento |
 |---|---|
-| a) El módulo A llama a B pasándole solo el idAlumno. | **De datos**: solo se pasa el dato simple que B necesita. |
-| b) A le pasa a B una bandera modo = "imprimir" / "guardar" que decide qué hace B. | **De control**: A dirige la lógica interna de B mediante una bandera. |
-| c) Varios módulos leen y modifican la variable global TotalVentas. | **Común**: comparten un dato global. |
-| d) A modifica directamente un atributo privado de B. | **De contenido**: A accede al interior de B y rompe su encapsulamiento. |
-| e) A le pasa a B el objeto Alumno completo, aunque B solo usa la fecha de nacimiento. | **Por estampado**: se pasa una estructura completa de la que B usa solo una parte. |
+
 
 **9. Explica por qué la alta cohesión y el bajo acoplamiento suelen ir de la mano. Da un ejemplo.**
 
