@@ -2,7 +2,7 @@
 
 ---
 
-## Tema 1 · El diseño en la ingeniería de software
+## Tema 1 · El diseño en la ingeniería de software.
 
 **1. Explica con tus palabras la diferencia entre diseño conceptual y diseño técnico (detallado). Da un ejemplo de una decisión de cada tipo para un sistema de gestión de una biblioteca.**
 
