@@ -85,9 +85,9 @@ _Respuesta:_
 
 No conviene dividir un sistema en muy pocos módulos porque se vuelven grandes y difíciles de entender, mantener y modificar. Esto aumenta el costo de mantenimiento y de corrección de errores.
 
-Por otro lado, dividirlo en demasiados módulos genera muchas conexiones y dependencias entre ellos, lo que aumenta el costo de integración, comunicación y coordinación.
+Por otro lado,  dividirlo en demasiados módulos genera muchas conexiones y dependencias entre ellos, lo que aumenta el costo de integración, comunicación y coordinación.
 
-En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizados, que sean fáciles de mantener y que trabajen correctamente entre sí.
+En conclusión, lo ideal es encontrar un equilibrio,  con módulos bien organizados, que sean fáciles de mantener y que trabajen correctamente entre sí.
 
 **6. Para un sistema de gestión de un consultorio médico, propone dos descomposiciones distintas e indica qué módulos tendría cada una.**
 
