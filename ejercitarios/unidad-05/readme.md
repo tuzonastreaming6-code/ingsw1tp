@@ -249,6 +249,11 @@ Ejemplo de la segunda directriz: en un sistema de biblioteca, organizar el códi
 
 | Letra | Principio | ¿Qué propone? |
 |---|---|---|
+| S | Responsabilidad única (*Single Responsibility*) | Una clase debe tener una sola responsabilidad, es decir, un solo motivo para cambiar. |
+| O | Abierto/cerrado (*Open/Closed*) | Las clases deben estar abiertas a la extensión pero cerradas a la modificación: se agrega comportamiento nuevo sin cambiar el código existente. |
+| L | Sustitución de Liskov (*Liskov Substitution*) | Un objeto de una subclase debe poder reemplazar a uno de su clase base sin que el programa deje de funcionar correctamente. |
+| I | Segregación de interfaces (*Interface Segregation*) | Es mejor tener varias interfaces pequeñas y específicas que una grande, para que ninguna clase dependa de métodos que no usa. |
+| D | Inversión de dependencias (*Dependency Inversion*) | Los módulos de alto nivel no deben depender de módulos de bajo nivel, sino ambos de abstracciones (interfaces). |
 
 **18. Analiza la siguiente clase: "ReporteVentas obtiene las ventas desde SQL Server, calcula los totales, arma un PDF y lo envía por correo". ¿Qué principio SOLID viola principalmente? Propone una mejor distribución de responsabilidades.**
 
