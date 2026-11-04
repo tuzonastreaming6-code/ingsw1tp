@@ -124,9 +124,13 @@ En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizad
 
 _Respuesta:_
 
-Cuando un módulo tiene **alta cohesión**, todo lo que necesita para cumplir su única responsabilidad está dentro de él. Por eso necesita pedir menos cosas a otros módulos y expone una interfaz pequeña y clara, y eso es justamente el **bajo acoplamiento**. En cambio, cuando las responsabilidades están mezcladas o repartidas entre varios módulos, estos tienen que comunicarse constantemente, compartir datos o controlarse entre sí, y el acoplamiento crece.
+La alta cohesión significa que un módulo se encarga de tareas relacionadas entre sí, mientras que el bajo acoplamiento significa que los módulos dependen poco unos de otros.
 
-**Ejemplo:** en un sistema de ventas, si la lógica de cálculo de impuestos está repartida entre la pantalla de ventas, el módulo de facturas y el de reportes, los tres dependen entre sí y cualquier cambio en el IVA obliga a tocar los tres. Si en cambio se crea un módulo `CalculadoraImpuestos` que concentra toda esa lógica (alta cohesión), los demás solo lo llaman con `calcularIVA(monto)` (bajo acoplamiento, de datos), y un cambio de tasa se hace en un solo lugar.
+Suelen ir de la mano porque, cuando cada módulo tiene una función clara y específica, necesita menos conexiones y dependencias con otros módulos. Esto facilita el mantenimiento y los cambios en el sistema.
+
+Ejemplo: en un sistema de biblioteca, un módulo se encarga de gestionar los préstamos y otro de registrar los libros. Si cada uno cumple su función sin depender demasiado del otro, existe alta cohesión y bajo acoplamiento.
+
+Así, si se modifica el registro de libros, no será necesario cambiar todo el módulo de préstamos.
 
 ---
 
