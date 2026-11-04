@@ -174,6 +174,7 @@ _Respuesta:_
 
 **15. Explica con tus palabras qué es la trazabilidad de requerimientos y por qué es importante en un proyecto real.**
 
+La trazabilidad de requerimientos es la capacidad de seguirle el rastro a cada requerimiento a lo largo de todo el proyecto: saber de dónde salió (quién lo pidió y por qué), en qué parte del diseño y del código se convirtió, y con qué pruebas se verifica que se cumplió.
 
 
 ---
