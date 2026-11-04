@@ -336,7 +336,7 @@ Pantalla evaluada: **inicio de sesión e inscripción a exámenes del sistema de
 | No hay forma de cancelar una inscripción desde la misma pantalla; hay que ir a otro menú. | **Control y libertad del usuario** (#3). | Agregar un botón "Anular inscripción" en cada examen inscripto, con confirmación. |
 | Los textos son grises claros sobre fondo blanco y la tabla no se adapta al celular (hay que hacer zoom y desplazarse de costado). | **Accesibilidad**: contraste y diseño adaptable; también **diseño estético y minimalista** (#8). | Aumentar el contraste (mínimo 4,5:1 según WCAG) y mostrar los exámenes como tarjetas en pantallas pequeñas. |
 
-> ⚠️ **Antes de entregar:** reemplacen la captura `captura-evaluacion-heuristica.png` por una imagen real de la pantalla que elijan y ajusten los problemas de la tabla a lo que efectivamente se ve en esa captura.
+
 
 **24. Elijan una pantalla clave del sistema de su Trabajo Práctico y dibujen su wireframe. Indiquen qué regla de oro o heurística tuvieron en cuenta en al menos dos decisiones.**
 
