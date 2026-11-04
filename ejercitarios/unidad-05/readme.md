@@ -203,9 +203,9 @@ Les recomendaría **empezar con un monolito modular** y no con quince microservi
 1. **Tres personas no pueden operar quince servicios.** Cada servicio necesita despliegue, monitoreo, logs, base de datos y manejo de errores de red. El equipo pasaría más tiempo manteniendo infraestructura que construyendo el producto.
 2. **El dominio todavía no está claro.** En un producto nuevo los requisitos cambian mucho; si los límites entre servicios se definen mal, corregirlos es muy costoso porque implica cambiar APIs y mover datos entre bases.
 3. **Los microservicios resuelven problemas que todavía no tienen**: escalar partes de forma independiente o coordinar muchos equipos. Una empresa nueva todavía no necesita eso.
-4. **Costo y velocidad:** un monolito se despliega en un solo servidor barato, se prueba y depura más rápido, y permite llegar antes al mercado.
+4. **Costo y velocidad:** un monolito se despliega en un solo servidor barato, se prueba y depura más rápido, y permite llegar antes al mercado. 
 
-La clave es diseñar el monolito con **módulos bien separados** (alta cohesión, bajo acoplamiento, cada módulo con sus propios datos). Así, si en el futuro alguna parte necesita escalar o crece el equipo, ese módulo se puede extraer como microservicio con poco esfuerzo.
+La clave es diseñar el monolito con **módulos bien separados** (alta cohesión, bajo acoplamiento, cada módulo con sus propios datos). Así, si en el futuro alguna parte necesita escalar o crece el equipo, ese módulo se puede extraer como microservicio con poco esfuerzo. 
 
 **14. Para cada escenario, indica el atributo de calidad prioritario y un estilo arquitectónico que lo favorezca.**
 
