@@ -89,11 +89,6 @@ Por otro lado, dividirlo en demasiados módulos genera muchas conexiones y depen
 
 En conclusión, lo ideal es encontrar un equilibrio, con módulos bien organizados, que sean fáciles de mantener y que trabajen correctamente entre sí.
 
-- **Con muy pocos módulos**, cada uno es grande y hace muchas cosas. Aumenta el costo de desarrollo por módulo: el código es difícil de entender, de probar y de modificar, un cambio afecta a muchas partes y no se puede repartir bien el trabajo entre varias personas.
-- **Con demasiados módulos**, cada uno es pequeño y simple, pero aumenta el costo de integración: hay muchas interfaces que definir, documentar y mantener, más llamadas entre módulos (más acoplamiento), más puntos de falla y es más difícil seguir el flujo completo de una operación.
-
-Lo conveniente es una cantidad intermedia de módulos, la que minimiza el **costo total**. Cada módulo debe tener una responsabilidad clara (alta cohesión) y depender poco de los demás (bajo acoplamiento).
-
 **6. Para un sistema de gestión de un consultorio médico, propone dos descomposiciones distintas e indica qué módulos tendría cada una.**
 
 | Estrategia | Módulos propuestos |
