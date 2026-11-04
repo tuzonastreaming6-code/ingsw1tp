@@ -79,7 +79,7 @@ Incluye (dentro del alcance) — Versión 1:
 
 •	Facturación electrónica (SIFEN) ante la SET: la facturación sigue gestionándose por el circuito actual del negocio.
 
-•	Aplicación móvil nativa (Android/iOS): solo se desarrolla la versión web responsive
+•	Aplicación móvil nativo (Android/iOS): solo se desarrolla la versión web responsive
 
 •	Ventas a cuotas en línea: el crédito y las cuotas siguen gestionándose exclusivamente desde el POS.
 
